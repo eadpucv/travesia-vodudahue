@@ -19,3 +19,49 @@ Para imprimir las teselas se eligieron palabras provenientes del poema de Amerei
 - Almuerzo: Budin de zapallo italiano con arroz + Ensalada de porotos + Piña en conserva
 - Snack: Manzana o naranja
 - Cena: Tallarines con salsa blanca + Macedonia
+- 
+
+##Ámbito
+ 
+Acto quinto
+
+Inauguración Escultura- La Venus del vacío
+
+Jaime Reyes @Bosque contínuo a la Cubícula
+
+
+Nos llaman a reunirnos bajo la escultura ya terminada con nuestras bitácoras. El alumno de primer año José Díaz lee un fragmento del poema "El viaje" de Charles Baudelaire. Nos dicen que nos volveremos a reunir a las 12.00. Todos retornan a sus tareas y la escultura vuelve a quedar suspendida.
+Antes del almuerzo, volvemos. El poeta, Jaime, nos hace reflexionar sobre el valor de la unidad discreta y lo incontable.
+
+"36 unidades escultura,
+suspendida, inmersa entre lo incontable... lo que no se puede dibujar a puro perfil
+pasa a convertirse en...
+¿continuidad? ¿discontinuidad? ¿qué es lo que sucede?
+Sucede que la escultura se convierte, deja de ser madera; abstracto, conversión que se produce porque aparece la Venus del vacío.
+Un arte mayor, un regalo para la travesía."
+
+Bajo la escultura se encontraban unos regalos para todos, unos marcadores de páginas hechos a medida para las bitácoras de primer año y otros ajustables para las bitácoras de los demás participantes de esta travesía (diseño gráfico, invitados y profesores).
+Ambos diseños de marcadores, llevaban entre sus dobleces un verso del poema leído en la mañana por José: 
+"Corazón gozoso del joven pasajero.”
+
+José Díaz:
+
+		“Nos embarcaremos sobre el mar de las Tinieblas
+	Con el corazón gozoso del joven pasajero.
+		Escucháis esas voces, embelesadoras y fúnebres,
+		Que cantan: "¡Por aquí! vosotros que queréis saborear
+		
+		¡El Loto perfumado! Es aquí donde se cosechan
+		Los frutos milagrosos que vuestro corazón apetece;
+		Acudid a embriagaros con la dulzura extraña
+		De esta siesta que jamás tiene fin!"
+		
+		Por el acento familiar barruntamos al espectro;
+		Nuestros Pilades, allá, nos tienden sus brazos.
+		"¡Para refrescar tu corazón boga hacia tu Electra!"
+		Dice aquella a la que en otros días besábamos las rodillas.”
+
+ El viaje, Charles Baudelaire
+
+
+
