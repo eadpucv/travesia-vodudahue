@@ -1,6 +1,6 @@
 ![Cubícula Cardinal](img/obra/IMG_8750.JPG)
 
-## Bitácora de la Travesía a Vodudahue
+## Bitácora de la Travesía Vodudahue 2015
 
 Travesía realizada a la localidad de Vodudahue, Fiordo Comau, Región de los Lagos, Chile; entre el 18 de Octubre al 2 de Noviembre de 2015.
 
