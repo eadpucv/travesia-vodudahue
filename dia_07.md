@@ -47,7 +47,7 @@ Ambos diseños de marcadores, llevaban entre sus dobleces un verso del poema le�
 José Díaz:
 
 		“Nos embarcaremos sobre el mar de las Tinieblas
-	Con el corazón gozoso del joven pasajero.
+	    Con el corazón gozoso del joven pasajero.
 		Escucháis esas voces, embelesadoras y fúnebres,
 		Que cantan: "¡Por aquí! vosotros que queréis saborear
 		
