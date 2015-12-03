@@ -33,7 +33,16 @@ Cena: Sándwich de hamburguesa + Bebida. (Bus)
 
 ![Primer acto, salida de la escuela, todos somos un mismo taller](img/ambito/12189259_10208092055879745_4087732857468217126_o.jpg)
 
-El primer acto de la travesía se realizó minutos antes de emprender el viaje, en la plaza ubicada a la salida del costado de la sala de primer año de Arquitectura, la cual consistió en invitar a los distintos talleres a formar tan solo un grupo de Travesía, el cual debía estar disponibles y abiertos para recibir la magnitud del lugar tanto como lo construcción misma de la obra.
+Acto primero
+
+La partida
+
+Jaime Reyes @Plaza J.J. Latorre
+
+Cuando está todo listo para partir Jaime nos invita a reunirnos antes de subir a los buses. Se sube arriba de una banca situada en la plaza y se dirige a nosotros, como taller, como un todo. 
+
+Jaime Reyes:
+“En la travesía uno deja de ser quien es y se transforma en una parte de un total, el cual es muy importante en cada parte de la cooperación de cada uno, es cuidarse y ayudarse, como una manada.”
 
 
 
