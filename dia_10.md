@@ -18,30 +18,31 @@
 
 Jaime lee el poema construido a partir de la phalene del puente, el [día 8](dia_08.md)
 
-Un mar
-de fieras de cultivo
-y el conocimiento en tu vuelo
-hacia el marino río
-de lágrimas esta basura
-de las palabras este camino
-de la parvada este pensamiento
+    Un mar
+    de fieras de cultivo
+    y el conocimiento en tu vuelo
+    hacia el marino río
+        de lágrimas esta basura
+            de las palabras este camino
+                de la parvada este pensamiento
 
-al viento   -siempre demasiado-
-¡oh ambigua y sombrío ángel!
-sin letras tu grito
-mudo tu viento
-estrepitoso
-como mirada de musa
-de la música sin preocupación
-y tormentosa ante el vuelo
+    al viento   -siempre demasiado-
+    ¡oh ambiguo y sombrío ángel!
+            sin letras tu grito
+        y mudo tu viento
+                        estrepitoso
+                        
+    como mirada de musa
+        en la música sin preocupación
+            y tormentosa ante el vuelo
 
-Así    otoñal
-tu beso
-guarecido de la lluvia
-como fragmento de mar
-interior es toda luz
-que hipnotiza
-en las noches tu barco
+    Así    otoñal
+                tu beso
+            guarecido bajo la lluvia
+            como fragmento de mar
+                    interior es toda luz
+                    que hipnotiza
+                    en las noches tu barco
 
 pero
 entonces
