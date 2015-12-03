@@ -44,19 +44,19 @@ Jaime lee el poema construido a partir de la phalene del puente, el [día 8](dia
                     que hipnotiza
                     en las noches tu barco
 
-pero
-entonces
-¿quién merodea en las costas quebrando?
-	sin rayos
-con mis manos para caminar
-todo el río    o algo
+        pero
+            entonces
+    ¿quién merodea en las costas quebrando?
+    sin rayos
+        con mis manos para caminar
+                            todo el río o algo
 
-Así el ojal
-de América toda luz
-que rompe
-el horizonte de la semilla
-sí      toda luz
-ahora estrellada
-y nocturna
-de la ciudad
+    Así el ojal
+        de América toda luz
+    que rompe
+        el horizonte de la semilla
+                sí toda luz
+                    ahora estrellada
+                y nocturna
+                    de la ciudad
 
