@@ -46,20 +46,20 @@ Ambos diseños de marcadores, llevaban entre sus dobleces un verso del poema le�
 
 José Díaz:
 
-		“Nos embarcaremos sobre el mar de las Tinieblas
-	    Con el corazón gozoso del joven pasajero.
-		Escucháis esas voces, embelesadoras y fúnebres,
-		Que cantan: "¡Por aquí! vosotros que queréis saborear
-		
-		¡El Loto perfumado! Es aquí donde se cosechan
-		Los frutos milagrosos que vuestro corazón apetece;
-		Acudid a embriagaros con la dulzura extraña
-		De esta siesta que jamás tiene fin!"
-		
-		Por el acento familiar barruntamos al espectro;
-		Nuestros Pilades, allá, nos tienden sus brazos.
-		"¡Para refrescar tu corazón boga hacia tu Electra!"
-		Dice aquella a la que en otros días besábamos las rodillas.”
+    “Nos embarcaremos sobre el mar de las Tinieblas
+    Con el corazón gozoso del joven pasajero.
+    Escucháis esas voces, embelesadoras y fúnebres,
+    Que cantan: "¡Por aquí! vosotros que queréis saborear
+    
+    ¡El Loto perfumado! Es aquí donde se cosechan
+    Los frutos milagrosos que vuestro corazón apetece;
+    Acudid a embriagaros con la dulzura extraña
+    De esta siesta que jamás tiene fin!"
+    
+    Por el acento familiar barruntamos al espectro;
+    Nuestros Pilades, allá, nos tienden sus brazos.
+    "¡Para refrescar tu corazón boga hacia tu Electra!"
+    Dice aquella a la que en otros días besábamos las rodillas.”
 
  El viaje, Charles Baudelaire
 
