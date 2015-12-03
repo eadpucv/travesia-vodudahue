@@ -33,7 +33,7 @@ Jaime Reyes @Bosque contínuo a la Cubícula
 Nos llaman a reunirnos bajo la escultura ya terminada con nuestras bitácoras. El alumno de primer año José Díaz lee un fragmento del poema "El viaje" de Charles Baudelaire. Nos dicen que nos volveremos a reunir a las 12.00. Todos retornan a sus tareas y la escultura vuelve a quedar suspendida.
 Antes del almuerzo, volvemos. El poeta, Jaime, nos hace reflexionar sobre el valor de la unidad discreta y lo incontable.
 
-"36 unidades escultura,
+>"36 unidades escultura,
 suspendida, inmersa entre lo incontable... lo que no se puede dibujar a puro perfil
 pasa a convertirse en...
 ¿continuidad? ¿discontinuidad? ¿qué es lo que sucede?
