@@ -1,4 +1,4 @@
-![Cubícula Cardinal](i/fotos/cubicula-cardinal.JPG)
+![Cubícula Cardinal](i/fotos/cubicula-cardinal.jpg)
 
 ## Bitácora de la Travesía Vodudahue 2015
 
