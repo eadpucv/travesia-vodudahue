@@ -4,7 +4,7 @@
 ### Parte baja
 ####Hospedería de la entrada
 
-![Tomás Ortega](../img/ca/croquis/entrada 22.jpeg)
+![Tomás Ortega](../i/croquis/tortega-hospederia-entrada.jpeg)
 *El signo, el techo la diagonal, la extensión de la forma y la trama que se forma por debajo del habitáculo dan el carácter y el perfil de la obra. la vegetación es parte importante de la conjugación de la forma (la diagonal).*
 
 ![Tomás Ortega](../img/ca/croquis/entrada 1.jpeg)
@@ -171,7 +171,7 @@ Se trabaja en los íconos para la exposición (35x35 cms)
 
 ###Parte baja
 ####Hospedería de la entrada
-![Tomás Ortega](img/ca/iconos/entrada.jpg)
+![Tomás Ortega](i/iconos/tortega-entrada.jpg)
 
 La hospedería presenta una diagonales muy fuerte que caracteriza la lejanía de la obra. El habitáculo es sostenido por una serie de vigas y pilares que van generando una trama, y que al mismo tiempo es como una extensión de la misma obra. El techo se modera a través de cuatro módulos que dibujan de forma clara el perfil diagonal del habitáculo, y por si mismos dibujan un ritmo con una diagonal contraria a la del habitáculo. Por último existe la vegetación que recibe a la obra en el suelo, dibujando una curva que contrasta con la ortogonalidad de la obra.
 
