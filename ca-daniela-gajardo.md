@@ -72,6 +72,7 @@ Aparece cierta transparencia, aquello que se deja ver a través de los ejes diag
 
 *La geometría llama a una profundidad, adentrarse en el quiebre, encontrarse con aquello que se aparece dentro de la profundidad.*
 
+
 ### Segunda Jornada: estudio y recopilación
 
 ####Hospedería de la entrada
