@@ -16,29 +16,29 @@
 
 ![Constanza Valdivia](i/croquis/arpa-eolica-1.jpg)
 
-![Constanza Valdivia](i/croquisarpa-eolica-2.jpg)
+![Constanza Valdivia](i/croquis/arpa-eolica-2.jpg)
 
 *Unidades cilíndricas de leve inclinación, se conforma un espacio abierto a los sentidos. La diagonal alterna de los elementos proporciona un perfil característico de sombras en una proyección irregular hacia el suelo. Un contraste entre la geometría, sentidos y elementos naturales que componen el lugar.*
 
 #### Pilares de Hormigón
 
-![Constanza Valdivia](img/ca/croquis/pilares-hormigón-2.jpg)
+![Constanza Valdivia](i/croquis/pilares-hormigón-2.jpg)
 
 *Su acoplado horizontal, dibuja una línea recta que luego es alternada por tres curvas que desde un primer encuentro, destacan un relieve agudo ante la identidad del lugar. Su agudeza como interpretación de las cuencas arenosas y vegetales que componen su base.*
 
 #### Hospedería de la Rosa de los Vientos
 
-![Constanza Valdivia](img/ca/croquis/h-rosa-1.jpg)
+![Constanza Valdivia](i/croquis/h-rosa-1.jpg)
 
-![Constanza Valdivia](img/ca/croquis/h-rosa-2.jpg)
+![Constanza Valdivia](i/croquis/h-rosa-2.jpg)
 
 *De geometría fina e irregular, variación de suaves curvaturas. Solventa su identidad en la sutileza de las sombras. Se realza la intención de guiar la luz y el viento como que componen su forma. Un recorrido intuitivo a la forma.*
 
 #### Hospedería Colgante 
 
-![Consanza Valdivia](img/ca/croquis/h-colgante-1.jpg)
+![Consanza Valdivia](i/croquis/h-colgante-2.jpg)
 
-![Constanza Valdivia](img/ca/croquis/h-colgante-2.jpg)
+![Constanza Valdivia](i/croquis/h-colgante-1.jpg)
 
 *De paneles curvos, estructura suspendida desde las finas cuencas de las dunas, su cuerpo trazado por una geometría fina pareciera no irrumpir de forma abrupta con la versatilidad natural del terreno.*
 
@@ -47,39 +47,39 @@
 
 #### Palacio del Alba y el Ocaso
 
-![Constanza Valdivia](img/ca/croquis/palacio-1.jpg)
+![Constanza Valdivia](i/croquis/palacio-1.jpg)
 
-![Constanza Valdivia](img/ca/croquis/palacio-2.jpg)
+![Constanza Valdivia](i/croquis/palacio-2.jpg)
 
 *Lineamiento de unidades de ladrillo, trazando un plano diagonal que genera un espacio tangible por medio de la inyección y proyección de la luz en la geometría cilíndrica presente en la obra.*
 
 #### Faubourg
 
-![Constanza Valdivia](img/ca/croquis/faubourg-1.jpg)
+![Constanza Valdivia](i/croquis/faubourg-1.jpg)
 
-![Constanza Valdivia](img/ca/croquis/faubourg-2.jpg)
+![Constanza Valdivia](i/croquis/faubourg-2.jpg)
 
 *Unidades de hormigón dispersas a ras de suelo, generando así un trazado irregular  de variados niveles. De geometría solida, se proyectan ángulos rectos en todas sus partes componiendo un total visual.*
 
 #### Hospedería del Errante
 
-![Constanza Valdivia](img/ca/croquis/h-errante-1.jpg)
+![Constanza Valdivia](i/croquis/h-errante-1.jpg)
 
-![Constanza Valdivia](img/ca/croquis/h-errante-2.jpg)
+![Constanza Valdivia](i/croquis/h-errante-2.jpg)
 
 *Un cuerpo en forma de manto que nace y surge desde el suelo. Un cuerpo de líneas e inclinaciones leves generándose ante la vista un leve gesto de ondulación trazado por medio de rectas paralelas y diagonales, constituyendo así la forma de las ventanas.*
 
 #### Megaterio
 
-![Constanza Valdivia](img/ca/croquis/megaterio-1.jpg)
+![Constanza Valdivia](i/croquis/megaterio-1.jpg)
 
 *De suelo irregular, se traza una recta visible que conforma el total del cuerpo. Contraste geométrico con la versatilidad del terreno.*
 
 #### Pozo Escultorico
 
-![Constanza Valdivia](img/ca/croquis/pozo-escultorico-1.jpg)
+![Constanza Valdivia](i/croquis/pozo-escultorico-1.jpg)
 
-![Constanza Valdivia](img/ca/croquis/pozo-escultorico-2.jpg)
+![Constanza Valdivia](i/croquis/pozo-escultorico-2.jpg)
 
 *Un trazo que se dibuja en el mismo suelo y desciende a su plano ocultando su forma final del espectador. Un signo del que se compone un recorrido en base a los sentidos.*
 
@@ -91,51 +91,51 @@ Cada alumno sube sus casos de estudio, grillas y abstracciones de cada obra.
 
 #### Hospedería de la Entrada
 
-![Constanza Valdivia](img/ca/croquis/h-entrada-estudio.jpg)
-![Constanza Valdivia](img/ca/esquema/h-entrada-maqueta.jpg)
+![Constanza Valdivia](i/croquis/h-entrada-estudio.jpg)
+![Constanza Valdivia](i/croquis/h-entrada-maqueta.jpg)
 
 #### Arpa eólica
 
-![Constanza Valdivia](img/ca/esquema/arpa-eolica-estudio.jpg)
-![Constanza Valdivia](img/ca/esquema/arpa-eolica-maqueta.jpg)
+![Constanza Valdivia](i/croquis/arpa-eolica-estudio.jpg)
+![Constanza Valdivia](i/croquis/arpa-eolica-maqueta.jpg)
 
 #### Pilares de Hormigón
 
-![Constanza Valdivia](img/ca/esquema/pilares-hormigón-estudio.jpg)
-![Constanza Valdivia](img/ca/esquema/pilares-hormigón-maqueta.jpg)
+![Constanza Valdivia](i/croquis/pilares-hormigón-estudio.jpg)
+![Constanza Valdivia](i/croquis/pilares-hormigón-maqueta.jpg)
 
 #### Hospedería de la Rosa de los Vientos
 
-![Constanza Valdivia](img/ca/esquema/h-rosa-estudio.jpg)
-![Constanza Valdivia](img/ca/esquema/h-rosa-maqueta.jpg)
+![Constanza Valdivia](i/croquis/h-rosa-estudio.jpg)
+![Constanza Valdivia](i/croquis/h-rosa-maqueta.jpg)
 
 #### Hospedería Colgante 
 
-![Constanza Valdvia](img/ca/esquema/h-colgante-estudio.jpg)
-![Constanza Valdivia](img/ca/esquema/h-colgante-maqueta.jpg)
+![Constanza Valdvia](i/croquis/h-colgante-estudio.jpg)
+![Constanza Valdivia](i/croquis/h-colgante-maqueta.jpg)
 
 ### Parte Alta
 
 #### Palacio del Alba y el Ocaso
 
-![Constanza Valdivia](img/ca/esquema/palacio-estudio.jpg)
-![Constanza Valdivia](img/ca/esquema/palacio-estudio0009.jpg)
+![Constanza Valdivia](i/croquis/palacio-estudio.jpg)
+![Constanza Valdivia](i/croquis/palacio-estudio0009.jpg)
 
 #### Faubourg
 
-![Constanza Valdivia](img/ca/esquema/faobourg-estudio.jpg)
+![Constanza Valdivia](i/croquis/faobourg-estudio.jpg)
 
 #### Hospedería del Errante
 
-![Constanza Valdivia](img/ca/esquema/h-errante-estudio.jpg)
+![Constanza Valdivia](i/croquis/h-errante-estudio.jpg)
 
-![Constanza Valdivia](img/ca/esquema/h-errante-maqueta.jpg)
+![Constanza Valdivia](i/croquis/h-errante-maqueta.jpg)
 
 ### Megaterio
 
-![Constanza Valdivia](img/ca/esquema/megaterio-estudio.jpg)
+![Constanza Valdivia](i/croquis/megaterio-estudio.jpg)
 
-![Constanza Valdivia](img/ca/esquema/megaterio-maqueta.jpg)
+![Constanza Valdivia](i/croquis/megaterio-maqueta.jpg)
 
 ### Pozo Escultorico
 
