@@ -3,8 +3,7 @@
 ### Primera jornada: Croquis y observación en terreno
 
 ####Hospedería de la entrada
-
-![Daniela Gajardo](img/ca/croquis/Hospederia de la Entrada 2.jpg)
+![Daniela Gajardo](i/ca/croquis/h-entrada-dg.jpg)!
 *Construcción de una trama diagonal que permite entrever. El cruce entre diagonales y elementos verticales. Confluir de los elementos para formar un conjunto que funciona como unidad en donde existe un delante y un detrás, aquello que puede ser visto a través de esta trama construida.*
 ![Daniela Gajardo](img/ca/croquis/Hospedería de la Entrada.jpg)
 
