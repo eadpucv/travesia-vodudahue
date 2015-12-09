@@ -36,10 +36,11 @@ Aparece cierta transparencia, aquello que se deja ver a través de los ejes diag
 
 ####Palacio del Alba y el Ocaso
 ![Daniela Gajardo](i/croquis/p-alba-ocaso-01-dg.jpg)
-![Daniela Gajardo](i/croquis/p-alba-ocaso-dg-2.jpg)
+
 
 *Perfil que se va modelando. La aparición de diversas caras, en donde el contraste hace aparecer el distingo entre una cosa y otra, los límites de la obra. *
 
+![Daniela Gajardo](i/croquis/p-alba-ocaso-dg-2.jpg)
 
 ####Faubourg
 
