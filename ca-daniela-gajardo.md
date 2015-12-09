@@ -245,7 +245,7 @@ La repetición de la geometría de las ventanas hace aparecer una sucesion de el
 #### Pozo Escultórico
 
 
-![Daniela Gajardo](img/ca/iconos 2/pozo final dg.jpg)
+![Daniela Gajardo](i/iconos/pozo-ic-dg.jpg)
 
 
 
