@@ -20,6 +20,7 @@ Aparece cierta transparencia, aquello que se deja ver a través de los ejes diag
 
 
 ###Hospedería Rosa de los vientos
+![Daniela Gajardo](i/croquisr-vientos-dg.jpg)
 
 *La mezcla entre la vegetación y la obra hacen que esta se encuentre inscrita dentro de un contexto mayor. Aparece este resplandor de la obra aportado desde el color blanco que brilla desde este contexto. La obra emerge y se destaca desde la lejanía.*
 
