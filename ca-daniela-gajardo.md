@@ -240,7 +240,7 @@ La repetición de la geometría de las ventanas hace aparecer una sucesion de el
 
 #### Megaterio
 
-![Daniela Gajardo](img/ca/iconos 2/megaterio final.jpg)
+![Daniela Gajardo](i/iconos/megaterio-ic-dg.jpg)
 
 #### Pozo Escultórico
 
