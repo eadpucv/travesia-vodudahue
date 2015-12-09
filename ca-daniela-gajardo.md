@@ -6,7 +6,8 @@
 ![Daniela Gajardo](i/croquis/h-entrada-dg.jpg)
 
 *Construcción de una trama diagonal que permite entrever. El cruce entre diagonales y elementos verticales. Confluir de los elementos para formar un conjunto que funciona como unidad en donde existe un delante y un detrás, aquello que puede ser visto a través de esta trama construida.*
-![Daniela Gajardo](img/ca/croquis/Hospedería de la Entrada.jpg)
+
+
 
 #### Arpa eólica
 ![Daniela Gajardo](img/ca/croquis/Arpas de viento.jpg)
