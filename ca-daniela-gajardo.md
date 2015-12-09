@@ -10,7 +10,7 @@
 ![Daniela Gajardo](i/croquis/h-entrada-dg-2.jpg)
 
 #### Arpa eólica
-![Daniela Gajardo](img/ca/croquis/Arpas de viento.jpg)
+![Daniela Gajardo](i/croquis/arpa-viento-dg.jpg)
 *Existen diagonales que poseen un sentido, desde la repetición hacia el sentido del conjunto. 
 Aparece cierta transparencia, aquello que se deja ver a través de los ejes diagonales.*
 
