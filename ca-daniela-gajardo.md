@@ -236,7 +236,7 @@ La repetición de la geometría de las ventanas hace aparecer una sucesion de el
 
 #### Hospedería del Errante
 
-![Daniela Gajardo](img/ca/iconos 2/errante final.jpg)
+![Daniela Gajardo](i/iconos/errante-dg-ic.jpg)
 
 #### Megaterio
 
