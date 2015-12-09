@@ -212,7 +212,7 @@ La repetición de la geometría de las ventanas hace aparecer una sucesion de el
 
 #### Arpa Eólica
 
-![Daniela Gajardo](img/ca/iconos 2/arpa eolica final dg.jpg)
+![Daniela Gajardo](i/iconos/arpa-e-ic-dg.jpg)
 
 #### Pilares de Hormigón 
 
