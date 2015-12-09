@@ -6,17 +6,17 @@
 
 #### Hospedería de la entrada
 
-![Constanza Valdivia](img/ca/croquis/h-entrada-01p.jpg)
+![Constanza Valdivia](i/croquis/h-entrada-01.jpg)
 
-![Constanza Valdivia](img/ca/croquis/h-entrada-2.jpg)
+![Constanza Valdivia](i/croquis/h-entrada-2.jpg)
 
 *Obra en la que se destaca una prolongación de los techos hacia el suelo, se presenta una leve inclinación de esta misma por medio de la diagonal. El conjunto de diagonales paralelas entre sí, promueven un espacio de resguardo proyectado en base a una sombra constante que  realza a la vista la geometría dada por los materiales.*
 
 #### Arpa eólica
 
-![Constanza Valdivia](img/ca/croquis/arpa-eolica-1.jpg)
+![Constanza Valdivia](i/croquis/arpa-eolica-1.jpg)
 
-![Constanza Valdivia](img/ca/croquis/arpa-eolica-2.jpg)
+![Constanza Valdivia](i/croquisarpa-eolica-2.jpg)
 
 *Unidades cilíndricas de leve inclinación, se conforma un espacio abierto a los sentidos. La diagonal alterna de los elementos proporciona un perfil característico de sombras en una proyección irregular hacia el suelo. Un contraste entre la geometría, sentidos y elementos naturales que componen el lugar.*
 
