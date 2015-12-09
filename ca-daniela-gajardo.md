@@ -29,6 +29,7 @@ Aparece cierta transparencia, aquello que se deja ver a través de los ejes diag
 
 ####Hospedería Colgante
 ![Daniela Gajardo](i/croquis/h-colgante-dg.jpg)
+
 *Repetición de caras curvas en un plano. La curva repetida aporta profundidad a la extensión de la obra*
 
 ####Palacio del Alba y el Ocaso
