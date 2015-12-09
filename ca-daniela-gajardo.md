@@ -28,7 +28,7 @@ Aparece cierta transparencia, aquello que se deja ver a través de los ejes diag
 *El contraste entre las curvas y las líneas diagonales. La aparición de esta mezcla de elementos diferentes en una misma obra en armonía dentro de un espacio acotado.*
 
 ####Hospedería Colgante
-![Daniela Gajardo](img/ca/croquis/Hospedería Colgante.jpg)
+![Daniela Gajardo](i/croquis/h-colgante-dg.jpg)
 *Repetición de caras curvas en un plano. La curva repetida aporta profundidad a la extensión de la obra*
 
 ####Palacio del Alba y el Ocaso
