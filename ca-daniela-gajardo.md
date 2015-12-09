@@ -228,7 +228,7 @@ La repetición de la geometría de las ventanas hace aparecer una sucesion de el
 
 #### Palacio del Alba y el Ocaso
 
-![Daniela Gajardo](img/ca/iconos 2/palacio final dg.jpg)
+![Daniela Gajardo](i/iconos/palacio-dg-ic.jpg)
 
 #### Faubourg 
 
