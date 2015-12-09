@@ -216,7 +216,7 @@ La repetición de la geometría de las ventanas hace aparecer una sucesion de el
 
 #### Pilares de Hormigón 
 
-![Daniela Gajardo](img/ca/iconos 2/pilares de hormigon final dg.jpg)
+![Daniela Gajardo](i/iconos/p-hormigon-dg.jpg)
 
 #### Hospedería de la Rosa de los Vientos
 
