@@ -16,6 +16,7 @@ Aparece cierta transparencia, aquello que se deja ver a través de los ejes diag
 
 ####Pilares de Hormigón
 
+![Daniela Gajardo](i/croquis/p-hormigon-dg.jpg)
 *La curva aparece en contraste con los ejes verticales. Existe una repetición del horizonte. El cruce de lo vertical y lo horizontal*.
 
 
