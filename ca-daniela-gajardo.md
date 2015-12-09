@@ -232,7 +232,7 @@ La repetición de la geometría de las ventanas hace aparecer una sucesion de el
 
 #### Faubourg 
 
-![Daniela Gajardo](img/ca/iconos 2/faubourg final dg.jpg)
+![Daniela Gajardo](i/iconos/fau-ic-dg.jpg)
 
 #### Hospedería del Errante
 
