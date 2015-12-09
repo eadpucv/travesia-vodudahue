@@ -220,7 +220,7 @@ La repetición de la geometría de las ventanas hace aparecer una sucesion de el
 
 #### Hospedería de la Rosa de los Vientos
 
-![Daniela Gajardo](img/ca/iconos 2/rosa de los vientos final dg.jpg)
+![Daniela Gajardo](i/iconos/r-vientos-dg.jpg)
 
 #### Hospederóa Colgante
 
