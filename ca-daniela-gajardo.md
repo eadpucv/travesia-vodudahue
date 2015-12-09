@@ -222,7 +222,7 @@ La repetición de la geometría de las ventanas hace aparecer una sucesion de el
 
 ![Daniela Gajardo](i/iconos/r-vientos-dg.jpg)
 
-#### Hospederóa Colgante
+#### Hospederia Colgante
 
 ![Daniela Gajardo](i/iconos/colgante-ic-dg.jpg)
 
