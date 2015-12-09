@@ -206,7 +206,7 @@ La repetición de la geometría de las ventanas hace aparecer una sucesion de el
 
 ####Hospedería de la Entrada
 
-![Daniela Gajardo](img/ca/iconos 2/entrada final.jpg)
+![Daniela Gajardo](i/iconos/h-entrada-ic-dg.jpg)
 
 *Para la construcción de este icono se utilizó la base del original hecho a mano, realizandole cambios 
 
