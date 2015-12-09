@@ -14,15 +14,15 @@
 Aparece cierta transparencia, aquello que se deja ver a través de los ejes diagonales.*
 
 ####Pilares de Hormigón
-![Daniela Gajardo](img/ca/croquis/Pilares de hormigón.jpg)
+
 *La curva aparece en contraste con los ejes verticales. Existe una repetición del horizonte. El cruce de lo vertical y lo horizontal*.
-![Daniela Gajardo](img/ca/croquis/pilares de hormigon 2.jpg)
+
 
 ###Hospedería Rosa de los vientos
-![Daniela Gajardo](img/ca/croquis/Rosa de los vientos.jpg)
+
 *La mezcla entre la vegetación y la obra hacen que esta se encuentre inscrita dentro de un contexto mayor. Aparece este resplandor de la obra aportado desde el color blanco que brilla desde este contexto. La obra emerge y se destaca desde la lejanía.*
 
-![Daniela Gajardo](img/ca/croquis/Rosa de los vientos 2.jpg)
+
 *El contraste entre las curvas y las líneas diagonales. La aparición de esta mezcla de elementos diferentes en una misma obra en armonía dentro de un espacio acotado.*
 
 ####Hospedería Colgante
@@ -30,31 +30,29 @@ Aparece cierta transparencia, aquello que se deja ver a través de los ejes diag
 *Repetición de caras curvas en un plano. La curva repetida aporta profundidad a la extensión de la obra*
 
 ####Palacio del Alba y el Ocaso
-![Daniela Gajardo](img/ca/croquis/Palacio del alba y el ocaso 2.jpg)
+
 
 *Perfil que se va modelando. La aparición de diversas caras, en donde el contraste hace aparecer el distingo entre una cosa y otra, los límites de la obra. *
-![Daniela Gajardo](img/ca/croquis/Palacio del alba y el ocaso.jpg)
 
 
 ####Faubourg
-![Daniela Gajardo](img/ca/croquis/Fabourg.jpg)
+
 *Escala de grises perfilada por la luz. Aparición de un horizonte geométrico.*
-![Daniela Gajardo](img/ca/croquis/Fabourg 2.jpg)
+
 *La diferencia de perspectivas ascienden hasta la creación de un horizonte perfilado, que combina las diferentes alturas, como niveles que no poseen un orden ascendente sino que se muestran de manera aleatoria.*
 
 ####Hospedería del Errante
-![Daniela Gajardo](img/ca/croquis/Hospedería del Errante.jpg)
 
 *Manto modulado ascendente, el cual cubre el espacio en esta modulación que asciende. En la aparición de las ventanas se produce el juego entre las líneas rectas y las diagonales*
 
-![Daniela Gajardo](img/ca/croquis/Hospedería del errante 2.jpg)
+
 
 ####Megaterio
-![Daniela Gajardo](img/ca/croquis/Megaterio.jpg)
+
 *El perfil que nace desde las alturas. Un horizonte construido intervenido por las verticales de hormigón*
 
 ####Pozo Escultórico
-![Daniela Gajardo](img/ca/croquis/Pozo escultorico.jpg)
+
 
 *La geometría llama a una profundidad, adentrarse en el quiebre, encontrarse con aquello que se aparece dentro de la profundidad.*
 
