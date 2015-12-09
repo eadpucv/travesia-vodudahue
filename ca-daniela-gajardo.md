@@ -224,7 +224,7 @@ La repetición de la geometría de las ventanas hace aparecer una sucesion de el
 
 #### Hospederóa Colgante
 
-![Daniela Gajardo](img/ca/iconos 2/colgante final dg.jpg)
+![Daniela Gajardo](i/iconos/colgante-ic-dg.jpg)
 
 #### Palacio del Alba y el Ocaso
 
