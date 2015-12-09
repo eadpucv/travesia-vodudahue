@@ -63,6 +63,7 @@ Aparece cierta transparencia, aquello que se deja ver a través de los ejes diag
 
 ####Megaterio
 
+![Daniela Gajardo](i/croquis/Megaterio1-dg.jpg)
 *El perfil que nace desde las alturas. Un horizonte construido intervenido por las verticales de hormigón*
 
 ####Pozo Escultórico
