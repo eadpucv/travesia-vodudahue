@@ -35,6 +35,7 @@ Aparece cierta transparencia, aquello que se deja ver a través de los ejes diag
 *Repetición de caras curvas en un plano. La curva repetida aporta profundidad a la extensión de la obra*
 
 ####Palacio del Alba y el Ocaso
+
 ![Daniela Gajardo](i/croquis/p-alba-ocaso-01-dg.jpg)
 
 
