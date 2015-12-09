@@ -68,6 +68,7 @@ Aparece cierta transparencia, aquello que se deja ver a través de los ejes diag
 
 ####Pozo Escultórico
 
+![Daniela Gajardo](i/croquis/p-escultorico-dg.jpg)
 
 *La geometría llama a una profundidad, adentrarse en el quiebre, encontrarse con aquello que se aparece dentro de la profundidad.*
 
