@@ -45,7 +45,10 @@ Aparece cierta transparencia, aquello que se deja ver a través de los ejes diag
 
 ####Faubourg
 
+![Daniela Gajardo](i/croquis/faubourg-dg-1.jpg)
 *Escala de grises perfilada por la luz. Aparición de un horizonte geométrico.*
+
+![Daniela Gajardo](i/croquis/faubourg-dg-2.jpg)
 
 *La diferencia de perspectivas ascienden hasta la creación de un horizonte perfilado, que combina las diferentes alturas, como niveles que no poseen un orden ascendente sino que se muestran de manera aleatoria.*
 
