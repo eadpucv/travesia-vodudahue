@@ -56,6 +56,7 @@ Aparece cierta transparencia, aquello que se deja ver a través de los ejes diag
 ####Hospedería del Errante
 
 ![Daniela Gajardo](i/croquis/h-errante-dg1.jpg)
+
 *Manto modulado ascendente, el cual cubre el espacio en esta modulación que asciende. En la aparición de las ventanas se produce el juego entre las líneas rectas y las diagonales*
 
 ![Daniela Gajardo](h-errante-dg-2.jpg)
