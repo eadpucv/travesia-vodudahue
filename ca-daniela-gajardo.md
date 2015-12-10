@@ -97,6 +97,7 @@ El dibujo persiste en hacer aparecer la orientación, aquella dirección a la qu
 
 ####Palacio del Alba y el Ocaso
 
+![Daniela Gajardo](i/croquis/e-palacio-dg.jpg)
 
 *El dibujo en blanco y negro, el alto contraste muestra un primer acercamiento a una abstracción, es la búsqueda de los límites que tiene aquello que estamos mirando. Desde que dibujamos establecemos una relación lineal entre lo que estamos mirando y el soporte del dibujo.
 Existe un traslape de las formas, aquello que se encuentra más adelante de aquello más lejano. 
