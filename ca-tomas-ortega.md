@@ -65,8 +65,8 @@
 
 
 ####Pozo Escultórico
-
-
+![Tomás Ortega](i/croquis/tortega-pozo -cro-1.jpeg)
+![Tomás Ortega](i/croquis/tortega-pozo- cro-2.jpeg)
 
 *El gesto de la sombra y el orden (la regla) que implica, es elocuente a la forma de interpretar caras a través de trazos.*
 
