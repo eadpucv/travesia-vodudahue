@@ -135,10 +135,12 @@ Grosores, alturas, la geometría desde la verticalidad. Contornos, líneas y fig
 
 
 ## Tercera jornada: Producción (originales)
+
 Se trabaja en los íconos para la exposición (35x35 cms)
 
 ####Hospedería de la entrada
 
+![Daniela Gajardo](i/iconos/ic-hosp-entrada-dg.jpg)
 *Doble perfil que crea una trama, el juego que se crea en el cruce. Entrever a partir de esta trama constructiva que posee cierta transparencia. Se compone de varios elementos que se reunen en estas diagonales, una trama inclinada que se repite varias veces.*
 
 **Geometría:** *Para trazar el dibujo se utilizan los ejes verticales y diagonales, en una sucesión aparecen hasta cierto punto se muestra la repetición y el entrecruce de diagonales.
