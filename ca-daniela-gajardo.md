@@ -109,7 +109,7 @@ Grosores, alturas, la geometría desde la verticalidad. Contornos, líneas y fig
 
 ####Hospedería del Errante
 
-
+![Daniela Gajardo](i/croquis/errante-esquema-dg.jpg)
 ####Megaterio
 
 
