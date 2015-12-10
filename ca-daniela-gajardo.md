@@ -83,7 +83,7 @@ Aparece cierta transparencia, aquello que se deja ver a través de los ejes diag
 *La trama del techo se reune con aquella que se erige desde el suelo. Los elementos se reunen en las diagonales, en donde la obra adquiere un sentido y una dirección a partir de las líneas rectas.*
 
 ####Arpa Eólica
-
+![Daniela Gajardo](i/croquis/h-viento-esquemadg.jpg)
 
 *El proceso consiste en traspasar el croquis  desde trazos dibujados y tramas a  un dibujo en alto contraste para mostrar los perfiles y rasgos característicos de la obra, en donde predomina su orientación diagonal.
 El dibujo persiste en hacer aparecer la orientación, aquella dirección a la que apunta la obra*
