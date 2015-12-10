@@ -110,8 +110,12 @@ Grosores, alturas, la geometría desde la verticalidad. Contornos, líneas y fig
 ####Hospedería del Errante
 
 ![Daniela Gajardo](i/croquis/errante-esquema-dg.jpg)
+
 ####Megaterio
 
+![Daniela Gajardo](i/croquis/megaterio-esquema-dg.jpg)
+
+![Daniela Gajardo](i/croquis/megaterio-esqu-dg.jpg)
 
 ####Pozo Escultórico
 
