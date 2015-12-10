@@ -4,15 +4,15 @@
 ### Parte baja
 #### Hospedería de la entrada
 
-![Tomás Ortega](i/croquis/tortega-entrada-2.jpeg)
+![Tomás Ortega](i/croquis/tortega-entrada-cro-2.jpeg)
 *El signo, el techo la diagonal, la extensión de la forma y la trama que se forma por debajo del habitáculo dan el carácter y el perfil de la obra. la vegetación es parte importante de la conjugación de la forma (la diagonal).*
 
-![Tomás Ortega](../img/ca/croquis/entrada 1.jpeg)
+![Tomás Ortega](i/croquis/tortega-entrada-cro-1.jpeg)
 *La trama del revestimiento de madera, el peso del color negro hace aparecer la forma sobre el volumen.
 *
 #### Arpa eólica
 
-![Tomás Ortega](img/ca/croquis/tortega-arpa-cro-1.jpeg)
+![Tomás Ortega](i/croquis/tortega-arpa-cro-1.jpeg)
 *La ubicación de las unidades y las distintas variaciones en la diagonal.*
 
 ####Pilares de Hormigón
@@ -38,38 +38,31 @@
 
 ####Palacio del Alba y el Ocaso
 #####Tomás Ortega
-![Tomás Ortega](img/ca/croquis/palacio 11.jpeg)
-![Tomás Ortega](img/ca/croquis/palacio 2.jpeg)
+
 
 *La curva, las unidades discretas como muros, la materialidad como ladrillo y la sombra curva en alto contraste dan un carácter particular a la obra.*
 
 ####Faubourg
 
-![Tomás Ortega](img/ca/croquis/faubourg 1.jpeg)
-![Tomás Ortega](img/ca/croquis/faubourg 2.jpeg)
-![Tomás Ortega](img/ca/croquis/faubourg 3.jpeg)
-![Tomás Ortega](img/ca/croquis/faubourg 4.jpeg)
+
 
 *la geometría ortogonal de sus perfiles otorga un perfil superior similar a una ciudad, pero caracterizándose por sus niveles.*
 
 ####Hospedería del Errante
 
-![Tomás Ortega](img/ca/croquis/errante 1.jpeg)
-![Tomás Ortega](img/ca/croquis/errante 2.jpeg)
+
 *La modulación en la forma. El peso en la aparición y el dibujo de las ventanas. los niveles y líneas en la forma.*
 
 ####Megaterio
 
-![Tomás Ortega](img/ca/croquis/megaterio 2.jpeg)
-![Tomás Ortega](img/ca/croquis/megaterio 11.jpeg)
+
 
 *Aparece en sus sombras rígidas, en su cualidad extensa y en su profundidad.*
 
 
 ####Pozo Escultórico
 
-![Tomás Ortega](img/ca/croquis/pozo 2.jpeg)
-![Tomás Ortega](img/ca/croquis/pozo 11.jpeg)
+
 
 *El gesto de la sombra y el orden (la regla) que implica, es elocuente a la forma de interpretar caras a través de trazos.*
 
