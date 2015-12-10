@@ -172,12 +172,14 @@ Se trabaja en los íconos para la exposición (35x35 cms)
 ####Hospedería Colgante
 
 ![Daniela Gajardo](i/iconos/ic-hosp-dg.jpg)
+
 *Interacción de curvas, la sucesión de caras. Existe un blanco que prevalece y resalta dentro de un contexto. Desde la altura aparece en contraste entre lo curvo y lo recto.*
 
 **Geometría:** *El dibujo de la curva se traza levemente respecto de la rectitud*
 
 ####Palacio del Alba y el Ocaso
 
+![Daniela Gajardo](i/iconos/ic-palacio-dg.jpg)
 
 *Superposición de caras, existe un delante y un detrás. La línea asciende y desciende en la construcción de este perfil que se va modulando. El traslape de las formas.*
 
