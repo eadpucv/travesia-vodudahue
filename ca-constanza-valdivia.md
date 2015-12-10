@@ -252,7 +252,7 @@ Luego de exponer se reciben correcciones del encargo y se trabaja en una nueva v
 
 ####Hospedería de la entrada
 
-![Constanza Valdivia](img/ca/iconos 2/h-entrada-icono-2.jpg)
+![Constanza Valdivia](i/iconos/h-entrada-icono-2.jpg)
 
 Se mantiene como rasgo característico la composición de la techumbre por medio de la extensión de las diagonales.
 
@@ -261,25 +261,25 @@ La línea se piensa  como contorno y forma de unidades que componen un todo.
 
 #### Arpa eólica
 
-![Constanza Valdivia](img/ca/iconos 2/arpa-eolica-icono-2.jpg)
+![Constanza Valdivia](i/iconos/arpa-eolica-icono-2.jpg)
 
 Se resalta la inclinación de los tubos, agregándole valor al perfil de  los elementos de viento en conjunto con la proyección de la sombra de estos mismos.
 
 #### Pilares de Hormigón
 
-![Constanza Valdivia](img/ca/iconos 2/pilares-hormigón-icono-2.jpg)
+![Constanza Valdivia](i/iconos/pilares-hormigón-icono-2.jpg)
 
 Contorno y horizontalidad, se dibuja su fuerza autosoportante. Su geometría horizontal, dibuja una línea recta que no es trazada de forma directa en la superficie del icono, si no que se insinúa su forma al dibujar el leve relieve que  alterna lo compuesto de la obra.
 
 #### Hospedería de la Rosa de los Vientos
 
-![Constanza Valdivia](img/ca/iconos 2/h-rosa-icono-2.jpg)
+![Constanza Valdivia](i/iconos/h-rosa-icono-2.jpg)
 
 Una composición en que se solventa un trazo levemente curvo, rescatando el perfil/relieve  que genera identidad a la obra.
 
 #### Hospedería Colgante 
 
-![Constanza Valdivia](img/ca/iconos 2h-colgante-icono-2.jpg)
+![Constanza Valdivia](i/iconos/h-colgante-icono-2 (2).jpg)
 
 Relieve y contorno  en que se busca resaltar la concavidad  existente en la obra.  El trazo agrega valor de volumen y distingo de unidades.
 
@@ -287,7 +287,7 @@ Relieve y contorno  en que se busca resaltar la concavidad  existente en la obra
 
 #### Palacio del Alba y el Ocaso
 
-![Constanza Valdivia](img/ca/iconos 2/palacio-icono-2.jpg)
+![Constanza Valdivia](i/iconos/palacio-icono-2.jpg)
 
 Unidades alternas dispuestas en un  trazo  diagonal que proyecta un juego de planos-espacios de recorrido. 
 
