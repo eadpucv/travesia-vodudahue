@@ -58,14 +58,14 @@ Aparece en su materialidad de hormigón y cómo se emplaza en el espacio, la per
 
 
 ####Anfiteatro
-![Anfiteatro](img/ca/croquis/Vanfiteatro.jpg)
+![Anfiteatro](img/ca/croquis/v-anfiteatro.jpg)
 
 Espacio destinado para la contemplación, su extensión se hace presente a través de su materialidad de ladrillo, que entrega rectas naturales que se complementan con las construidas en la obra.
 
 
 
 ####Pozo Escultórico
-![Pozo](img/ca/croquis/Vpozocopy.jpg)
+![Pozo](i/croquis/v-pozo.jpg)
 
 Recorrido geométrico que llama a la interrupción y a la profundidad de la sombra, centrándose en el quiebre de la luz.
 
