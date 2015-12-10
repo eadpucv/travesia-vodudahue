@@ -82,6 +82,7 @@ Aparece cierta transparencia, aquello que se deja ver a través de los ejes diag
 
 *La trama del techo se reune con aquella que se erige desde el suelo. Los elementos se reunen en las diagonales, en donde la obra adquiere un sentido y una dirección a partir de las líneas rectas.*
 
+![Daniela Gajardo](i/croquis/h-esquema-entrada-dg.jpg)
 ####Arpa Eólica
 ![Daniela Gajardo](i/croquis/h-viento-esquemadg.jpg)
 
