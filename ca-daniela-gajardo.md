@@ -123,6 +123,11 @@ Grosores, alturas, la geometría desde la verticalidad. Contornos, líneas y fig
 
 ####Pozo Escultórico
 
+![Daniela Gajardo](i/croquis/pozo-esq-dg.jpg)
+
+![Daniela Gajardo](i/croquis/pozo-esquema-dg.jpg)
+
+
 ## Tercera jornada: Producción (originales)
 Se trabaja en los íconos para la exposición (35x35 cms)
 
