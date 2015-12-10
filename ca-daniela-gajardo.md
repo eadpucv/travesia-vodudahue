@@ -107,6 +107,7 @@ Grosores, alturas, la geometría desde la verticalidad. Contornos, líneas y fig
 
 ![Daniela Gajardo](i/croquis/faubourg-dg-esquema.jpg)
 
+![Daniela Gajardo](i/croquis/fau-dg-2.jpg)
 ####Hospedería del Errante
 
 ![Daniela Gajardo](i/croquis/errante-esquema-dg.jpg)
