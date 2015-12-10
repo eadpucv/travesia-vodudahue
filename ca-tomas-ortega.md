@@ -171,50 +171,53 @@ Se trabaja en los íconos para la exposición (35x35 cms)
 La hospedería presenta una diagonales muy fuerte que caracteriza la lejanía de la obra. El habitáculo es sostenido por una serie de vigas y pilares que van generando una trama, y que al mismo tiempo es como una extensión de la misma obra. El techo se modera a través de cuatro módulos que dibujan de forma clara el perfil diagonal del habitáculo, y por si mismos dibujan un ritmo con una diagonal contraria a la del habitáculo. Por último existe la vegetación que recibe a la obra en el suelo, dibujando una curva que contrasta con la ortogonalidad de la obra.
 
 ####Arpa Eólica
-![Tomás Ortega](img/ca/iconos/harpa.jpg)
+![Tomás Ortega](i/iconos/tortega-arpa-ico-1.jpg)
 La obra aparece en el conjunto de sus unidades, las puntas de las arpas dan el ritmo de la trama junto con la variación de los tubos, que en su conjugación generan la modulación que da un carácter a la obra. La obra está guiada por una diagonal muy potente, la cual le entrega su mayor carácter tanto en la lejanía como a su lado.
 
 ####Pilares de Hormigón
 
+![Tomás Ortega](i/iconos/tortega-pilares-ico-1.jpg)
 El carácter de la obra está en dos verticales que se extienden paralelas sobre una duna, estas van unidas por una horizontal . La obra linealmente vista es similar a una “H”, en lo que difiere es su claro volumen compuesto entre cilindros y recortes circulares, deja una luminosidad tridimensional que entrega un fuerte carácter.
 
 
 ####Hospedería Rosa de los vientos
-![Tomás Ortega](img/ca/iconos/celdas.jpg)
+![Tomás Ortega](i/iconos/tortega-rosa-ico-1.jpg)
 
 El carácter de la obra radica principalmente en el gesto que dibuja el techo, tanto como en los módulos habitacionales como en el de la cocina (siendo este último el más característico). La conversación de esta obra con su contexto es importante, ya que esta obra viene a hablar de un gesto que ya existe y que se enfatiza en la construcción.
 
 ####Hospedería Colgante
-![Tomás Ortega](img/ca/iconos/colgante.jpg)
+![Tomás Ortega](i/iconos/tortega-colgante-ico-1.jpg)
 
 Las líneas curvas de la obra son un carácter muy potente, ya que el frontis del habitáculo presenta placas curvadas. El carácter de la obra existe en el contraste de las lineas curvas del frontis con la extensión de la obra y sus líneas rectas horizontales, acompañado de los pilares que la sostienen.
 
 ###Parte alta
 ####Palacio del Alba y el Ocaso
 
-![Tomás Ortega](img/ca/iconos/palacio.jpg)
+![Tomás Ortega](i/iconos/tortega-palacio-ico-1.jpg)
 
 La obra es compuesta por unidades curvos (muros de ladrillo), los cuales evocan una forma característica. Los elementos puestos de cierta manera generan un ritmo dado por distancias y perspectivas. El carácter se da en el contraste de las curvas superiores con una extensión lineal (recta) de la obra.
 
 ####Faubourg
-![Tomás Ortega](img/ca/iconos/fogur.jpg)
+![Tomás Ortega](i/iconos/tortega-faubourg-ico-1.jpg)
 La obra aparece en la lejanía como un conjunto de unidades ortogonales, que se van entretejiendo en distintos niveles, lo que logra perfilar un dibujo muy parecido al de una ciudad. El carácter aparece en los niveles en los que se van organizando los objetos ortogonales, y en la regularidad de estas formas.
 
-####Pozo Escultórico
-![Tomás Ortega](img/ca/iconos/pozo.jpg)
 
-La obra dibuja unos trazos lumínicos muy fuertes al llevar diagonales acompañados de la perspectiva, que otorga sombras que se asoman y contrastan con elementos iluminados. El carácter yace en las diagonales que terminan en un cuadrado sombreado, lo que da un peso a la composición y un cierto movimiento.
 
 
 ####Hospederia del errante 
 
-![Tomás Ortega](img/ca/iconos/errante.jpg)
+![Tomás Ortega](i/iconos/tortega-errante-ico-1.jpg)
 La obra tiene un carácter muy  ortogonal, y desde este va construyendo y transformando el espacio, dibujando su propia perspectiva, por medio de las líneas que trazan los muros y ventanas, El techo también acompaña esta forma pasando a un segundo lugar siendo solo un acompañante de la estructuración de las vistas del frontis de la obra. Un punto muy fuerte de la obra son las diagonales que muestran muros y ventanas.
 
 ####Megaterio
-![Tomás Ortega](img/ca/iconos/mega.jpg)
+![Tomás Ortega](i/iconos/tortega-megaterio-ico-1.jpg)
 
 La obra aparece en su extensión, el largo de de la obra le da por sí mismo una carácter espacial, esta va acompañada por una regularidad en su forma que le da una trazo muy ortogonal, con líneas que insisten en construir un paralelepidedo o un puente.
+
+####Pozo Escultórico
+![Tomás Ortega](i/iconos/tortega-pozo-ico-1.jpg)
+
+La obra dibuja unos trazos lumínicos muy fuertes al llevar diagonales acompañados de la perspectiva, que otorga sombras que se asoman y contrastan con elementos iluminados. El carácter yace en las diagonales que terminan en un cuadrado sombreado, lo que da un peso a la composición y un cierto movimiento.
 
 ## Quinta jornada: Correcciones y re-diseño
 Luego de exponer se reciben correcciones del encargo y se trabaja en una nueva versión de los íconos, dependiendo de la corrección personal de cada uno.
