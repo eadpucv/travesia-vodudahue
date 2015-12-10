@@ -76,45 +76,44 @@ Cada alumno sube sus casos de estudio, grillas y abstracciones de cada obra.
 ### Parte baja
 
 ####Estudio del trazo
-
-![Tomás Ortega](img/ca/esquema/rectas.jpeg)
-![Tomás Ortega](img/ca/esquema/curvas.jpeg)
-![Tomás Ortega](img/ca/esquema/DSC04104a.JPG)
+![Tomás Ortega](i/croquis/tortega-rectas-es-1.jpeg)
+![Tomás Ortega](i/croquis/tortega-curvas-es-1.jpeg)
+![Tomás Ortega](i/croquis/tortega-pruebas-es.JPG)
 
 Primeras pruebas del trazo que permite la pluma recortada, es el comienzo de un proceso de adaptación de la mano a la herramienta, y a la conjugación y conversación de los trazos.
 
 ####Hospedería de la entrada
 
-![Tomás Ortega](img/ca/esquema/esquema entrada.jpeg)
+![Tomás Ortega](i/croquis/tortega-entrada-es-1.jpeg)
 Primer esquema hecho en el mismo croquis, es el primer acercamiento a una geometría y un orden de trazos.
 
-![Tomás Ortega](img/ca/esquema/esquema entrada 2.jpeg)
+![Tomás Ortega](i/croquis/tortega-entrada-es-2.jpeg)
 
 El segundo esquema es la búsqueda de un peso y del equilibrio entre detalles y carácter.
 
-![Tomás Ortega](img/ca/esquema/DSC04108.JPG)
+![Tomás Ortega](i/croquis/tortega-entrada-es-3.JPG)
 Primera prueba en un formato grande, el carácter se pierde y el trazo es débil.
 
-![Tomás Ortega](img/ca/esquema/DSC04109.JPG)
+![](i/croquis/tortega-entrada-es-4.JPG)
 
 En la segunda prueba el trazo es más firme, y el carácter se enfatiza en los 4 techos.
 
 ####Arpa Eólica
 
-![Tomás Ortega](img/ca/esquema/esquemas arpa1.jpeg)
+![Tomás Ortega](i/croquis/tortega-arpa-es-1.jpeg)
 Insistencia en la forma de las puntas de las arpas, y esquemas de la obra.
 
-![Tomás Ortega](img/ca/esquema/DSC04103.JPG)
-![Tomás Ortega](img/ca/esquema/DSC04112a.JPG)
-![Tomás Ortega](img/ca/esquema/DSC04113a.JPG)
+![Tomás Ortega](i/croquis/tortega-arpa-es-1.JPG)
+![Tomás Ortega](i/croquis/tortega-arpa-es-2.JPG)
+![Tomás Ortega](i/croquis/tortega-arpa-es-3.JPG)
 
 Insistencia en el gesto, la forma y la diagonal en pruebas en tamaño grande (esta fue la primera obra por lo que también pasó por un proceso primario del trazo). Cada esquema pasa por un proceso de búsqueda de un equilibrio del peso del color a través de la composición del trazo.
 
 ####Pilares de Hormigón
 
-![Tomás Ortega](img/ca/esquema/esquema hormigon.jpeg)
+
 Primer esquemas hechos en cuaderno, una aproximación al carácter de la obra.
-![Tomás Ortega](img/ca/esquema/esquema hormigon 2.JPG)
+![Tomás Ortega](i/croquis/tortega-hormigon-es- 2.JPG)
 Segundo esquema, en tamaño grande.
 
 ####Hospedería Rosa de los vientos
