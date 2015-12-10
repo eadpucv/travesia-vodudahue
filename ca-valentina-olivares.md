@@ -78,7 +78,7 @@ Recorrido geométrico que llama a la interrupción y a la profundidad de la somb
 ### Parte baja
 
 ####Hospedería de la entrada
-![H. de la entrada](img/ca/esquema/Ventradaestudio.jpg)
+![H. de la entrada](i/iconos/esquema/Ventradaestudio.jpg)
 
 Se visualizan los perfiles de la obra,buscando la simplificación de los detalles que prenan, en este caso se opta por las diagonales del techo, su continuidad en la parte superior comprenden la mayoría del espacio, dandole un ritmo a la obra.
 
@@ -120,7 +120,7 @@ Se observa y esquematiza cómo la luz denota sus partes en su materialidad,
 las sombras separan la parte superior de la inferior y pilares.
 
 ####Anfiteatro
-![Anfiteatro](img/ca/esquema/Vanfiteatroestudiocopy.jpg)
+![Anfiteatro](i/croquis/v-anfiteatro.jpg)
 Se observa como totalidad y cómo se presenta en el espacio, las rectas y diagonales que delimitan el área entre el espacio para quién observa y el que presenta, existe una distinción entre la planicie del escenario y la geometría de las "bancas".
 
 ####Pozo Escultórico
