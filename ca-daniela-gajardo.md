@@ -206,6 +206,7 @@ La repetición de la geometría de las ventanas hace aparecer una sucesion de el
 
 ####Megaterio
 
+![Daniela Gajardo](i/iconos/ic-megaterio-dg.jpg)
 
 *Horizonte desde la altura, la aparición de un perfil continuoconstituido por un modulo que se repite. Se dibuja desde la altura, horizonte con leves intervenciones de lo vertical.*
 
