@@ -28,7 +28,7 @@ Aparece en su materialidad que contrasta con el espacio de la duna y vegetación
 
 
 #### Mesa del entreacto
-![Colgante](img/ca/croquis/vmesaentreacto2-01.jpg)
+![Colgante](i/croquis/v-mesa.jpg)
 
 Suelo construido para el descanso,  compuesto de horizontales y diagonales que se interrumpen por un cielo de estructuras de madera.
 
