@@ -17,20 +17,20 @@
 
 ####Pilares de Hormigón
 
-![Tomás Ortega](img/ca/croquis/hormigon 2.jpeg)
+![Tomás Ortega](i/croquis/tortega-hormigon-cro- 2.jpeg)
 *la contraposición de las curvas y las rectas. Su longitud similar al peso de una “H”, pero denotando su carácter en las distancias y sus volúmenes.*
 
-![Tomás Ortega](img/ca/croquis/hormigon 11.jpeg)
+![Tomás Ortega](i/croquis/tortega-hormigon-cro- 1.jpeg)
 *Aparece en su volumen curvo y en su extensión recta perpendicular al suelo. y también en sus líneas paralelas.*
 
 ####Hospedería Rosa de los vientos
 
-![Tomás Ortega](img/ca/croquis/rosa de los vientos 1.jpeg)
+![Tomás Ortega](i/croquis/tortega-rosa- cro-1.jpeg)
 *El gesto del techo hace aparecer el carácter de la hospedería, a este le sigue sus perspectivas dibujadas que transforman el espacio.*
 
 ####Hospedería Colgante
 
-![Tomás Ortega](img/ca/croquis/colgante 1.jpeg)
+![Tomás Ortega](i/croquis/tortega-colgante-cro-1.jpeg)
 
 *El ritmo de los tamaños y la posición de los paneles curvos, acompañados de la extensión dan el carácter a la obra. tiene relación directa con el suelo que los sostiene.*
 
@@ -38,25 +38,29 @@
 
 ####Palacio del Alba y el Ocaso
 #####Tomás Ortega
-
-
+![Tomás Ortega](i/croquis/tortega-palacio -cro-1.jpeg)
+![Tomás Ortega](i/croquis/tortega-palacio- cro-2.jpeg)
 *La curva, las unidades discretas como muros, la materialidad como ladrillo y la sombra curva en alto contraste dan un carácter particular a la obra.*
 
 ####Faubourg
-
-
+![Tomás Ortega](i/croquis/tortega-faubourg- cro-1.jpeg)
+![Tomás Ortega](i/croquis/tortega-faubourg- cro-2.jpeg)
+![Tomás Ortega](i/croquis/tortega-faubourg- cro-3.jpeg)
+![Tomás Ortega](i/croquis/tortega-faubourg- cro-4.jpeg)
 
 *la geometría ortogonal de sus perfiles otorga un perfil superior similar a una ciudad, pero caracterizándose por sus niveles.*
 
 ####Hospedería del Errante
-
+![Tomás Ortega](i/croquis/tortega-errante- cro-1.jpeg)
+![Tomás Ortega](i/croquis/tortega-errante- cro-2.jpeg)
+![Tomás Ortega](i/croquis/tortega-errante- cro-3.jpeg)
 
 *La modulación en la forma. El peso en la aparición y el dibujo de las ventanas. los niveles y líneas en la forma.*
 
 ####Megaterio
+![Tomás Ortega](i/croquis/tortega-megaterio-cro- 2.jpeg)
 
-
-
+![Tomás Ortega](i/croquis/tortega-megaterio -cro-1.jpeg)
 *Aparece en sus sombras rígidas, en su cualidad extensa y en su profundidad.*
 
 
