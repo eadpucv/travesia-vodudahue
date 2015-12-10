@@ -97,7 +97,7 @@ Cada alumno sube sus casos de estudio, grillas y abstracciones de cada obra.
 #### Arpa eólica
 
 ![Constanza Valdivia](i/croquis/arpa-eolica-estudio.jpg)
-![Constanza Valdivia](i/croquis/arpa-eolica-maqueta.jpg)
+![Constanza Valdivia](i/croquis/arpaa-eolica-maqueta-1.jpg)
 
 #### Pilares de Hormigón
 
@@ -141,17 +141,17 @@ Cada alumno sube sus casos de estudio, grillas y abstracciones de cada obra.
 
 ![Constanza Valdivia](i/croquis/pozo-escultorico-estudio.jpg)
 
-![Constanza Valdivia]
+![Constanza Valdivia](i/croquis/pozo-escultorico-maqueta.jpg)
 
 ## Tercera jornada: Producción (originales)
 
-Se trabaja en los íconos para la exposición (35x35 cms)
+Se trabaja en los iconos para la exposición (35x35 cms)
 
 ###Parte baja
 
 #### Hospedería de la Entrada
 
-![Constanza Valdivia](img/ca/iconos/h-entrada-icono.jpg)
+![Constanza Valdivia](i/iconos/-entrada-icono.jpg)
 
 Una techumbre que se prolonga diagonalmente, en un ancho mayor a la estructura interna que le sostiene. Con ángulos agudos las líneas levemente curvas se unen en lo alto proporcionando cuerpo y volumen a la leve línea de depresión con que esta techumbre guía su propia sombra a pies de la cuenca de las dunas y diversa vegetación.
 
@@ -159,7 +159,7 @@ De pilares inclinados afirma su arraigo al lugar y destaca su presencia  e ident
 
 #### Arpa eólica
 
-![Constanza Valdivia](img/ca/iconos/arpa-eolica-icono.jpg)
+![Constanza Valdivia](i/iconos/arpa-eolica-icono.jpg)
 
 Tubos de leve inclinación que encuentran su cimiento bajo suelo, subiendo sobre superficie arenosa con una leve inclinación, en contraste con el espacio que le recibe (una oquedad envolvente formada por vegetación y suelo arenoso), su suelo se presenta homogéneo y llano dando ocasión a la formación de un espacio abierto que constituye el encuentro de los sentidos con un ritmo articulado de la energía eólica presente en el lugar.
 
@@ -167,7 +167,7 @@ La inclinación de los tubos es lo que proporciona un perfil característico, en
 
 #### Pilares de Hormigón
 
-![Constanza Valdivia](img/ca/iconos/pilares-hormigón-icono.jpg)
+![Constanza Valdivia](i/iconos/pilares-hormigón-icono.jpg)
 
 Pilares autosoportantes de gran altura, de terminaciones moldeadas en base a una geometría tridimensional que se funda en un mismo radio del que se extienden tres puntas de ángulo prominente. Estas se encuentran intervenidas  por dos pilares, suspendidos de forma horizontal de cada costado. 
 
@@ -177,7 +177,7 @@ Es el contorno y la agudeza de la estructura, lo que le permite ser distinguible
 
 #### Hospedería de la Rosa de los Vientos
 
-![Constanza Valdivia](img/ca/iconos/h-rosa-icono.jpg)
+![Constanza Valdivia](i/iconos/h-rosa-icono.jpg)
 
 Formada en base a cuatro celdas, se conforma un cuerpo que a la vista pareciera solventar su composición en base a finas curvas que encuentran su gesto definido en su propio suelo. Un cuerpo de cuatro encuentros, un recorrido intuitivo a la forma posterior, a la conformación del total. 
 
@@ -187,7 +187,7 @@ Un gesto fino que pareciera alojar las el paso del viento, proporcionando un nue
 
 #### Hospedería Colgante 
 
-![Constanza Valdivia](img/ca/iconos/h-colgante-icono.jpg)
+![Constanza Valdivia](i/iconos/h-colgante-icono.jpg)
 
 Una geometría alojada en medio de la vegetación y una duna amplia de carácter versátil que se desdibuja en sí misma en la constante natural de los vientos.
 
@@ -199,7 +199,7 @@ Su relieve y contorno parecieran tener una intención limpia y receptiva ante la
 
 #### Palacio del Alba y el Ocaso
 
-![Constanza Valdivia](img/ca/iconos/palacio-icono.jpg)
+![Constanza Valdivia](i/iconos/palacio-icono.jpg)
 
 Cimientos que conforman diversos módulos individuales curvos, casi cilíndricos, que en su forma más cóncava albergan, interpretan y proyectan el fenómeno natural del alba y el ocaso.
 
@@ -209,7 +209,7 @@ Su concavidad construye el sentido e identidad de la obra, jugando con la consta
 
 #### Faubourg
 
-![Constanza Valdivia](img/ca/iconos/faobourg-icono.jpg)
+![Constanza Valdivia](i/iconos/faobourg-icono.jpg)
 
 Composición irregular de hormigón con suelo a la vista de ladrillos. Una irregularidad dispersa en base a unidades individuales mayormente rectangulares que encuentran su medida a pocos centímetros de su suelo construido. Se hallan en desnivel y en variada dirección.
 
@@ -219,8 +219,7 @@ Su sombra se proyecta como una prolongación de sus ángulos rectos.
 
 #### Hospedería del Errante
 
-![Constanza Valdivia](img/ca/iconos/h-errante-icono.jpg)
-
+![Constanza Valdivia](i/iconos/h-errante-icono.jpg)
 
 Cuerpo de proporción considerable que a la vista pareciera emerger de modo natural desde el suelo, sus paredes altas tratadas en diversidad de ángulos y diagonales albergan de forma geométrica tanto luz como sombra.
 
@@ -230,7 +229,7 @@ Su rasgo de identidad se conforma en la geometría lineal de sus partes.
 
 #### Megaterio
 
-![Constanza Valdivia](img/ca/iconos/megaterio-icono.jpg)
+![Constanza Valdivia](i/iconos/megaterio-icono.jpg)
 
 Estructura de cuatro pilares, prolongada en  cierta cantidad de metros. De altura prominente, traza una línea recta visible que conforma el total del cuerpo.
 Su suelo desigual dibuja una diagonal entre sus pilares, advertida principalmente desde una vista próxima a la obra. La mayor parte de la base de esta obra a primera vista no son posible observar por la variabilidad de cuencas del terreno y la creciente vegetación.
@@ -238,7 +237,7 @@ Su geometría recta se transforma en volumen al visualizar desde un costado la c
 
 #### Pozo Escultorico
 
-![Constanza Valdivia](img/ca/iconos/pozo-escultorico-icono.jpg)
+![Constanza Valdivia](i/iconos/pozo-escultorico-icono.jpg)
 
 Un signo inscrito en el suelo, encuentra su identidad en el doble horizonte que se dibuja desde la vista del espectador. El cielo y la tierra: un recorrido desconocido desde la tierra, distinguible desde el cielo (parte alta).
 
