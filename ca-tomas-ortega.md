@@ -12,7 +12,7 @@
 *
 #### Arpa eólica
 
-![Tomás Ortega](img/ca/croquis/arpa 1.jpeg)
+![Tomás Ortega](img/ca/croquis/tortega-arpa-cro-1.jpeg)
 *La ubicación de las unidades y las distintas variaciones en la diagonal.*
 
 ####Pilares de Hormigón
