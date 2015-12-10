@@ -225,47 +225,48 @@ Luego de exponer se reciben correcciones del encargo y se trabaja en una nueva v
 ###Parte baja
 
 ####Hospedería de la entrada
-![Tomás Ortega](img/ca/iconos 2/entr.jpg)
+![Tomás Ortega](i/iconos/tortega-entrada-ico-2.jpg)
 en el rediseño de este icono insiste en la diagonal que construye el habitáculo y el ritmo que generan los techos, dando mayor énfasis a este elemento ya que presenta un mayor carácter, y a la diagonal la use como un elemento tanto como constructivo de la composición como presentativo de un peso (en cuanto a color) de la obra.
 
 ####Arpa eólica
-![Tomás Ortega](img/ca/iconos 2/arp.jpg)
+![Tomás Ortega](i/iconos/tortega-arpa-ico-2.jpg)
 En esta versión corregí los problemas de composición de los elementos e insistí con mayor fuerza en las diagonales y la modulación de sombras de la obra, que es compuesta por la intercalación de tubos y pilares. esta vez obvie la presencia de las puntas de las harpas y enfoque el dibujo en dejar la trama diagonal bien definida.
 
 ####Pilares de hormigón
-![Tomás Ortega](img/ca/iconos 2/eslc.jpg)
+![Tomás Ortega](i/iconos/tortega-pilares-ico-2.jpg)
 En el caso de este icono mantuve los pilares verticales muy similares a la versión anterior, lo que cambió fue la manera de abordar la horizontal dado que que quise enfatizar la parte característica superior de la escultura más que el carácter curvo de la horizontal, así decidí transformar esa horizontal en un elemento que viene a contrapesar estos dos pilares o trazos verticales.
 
 ####Hospedería rosa de los vientos
-![Tomás Ortega](img/ca/iconos 2/celdas.jpg)
+![Tomás Ortega](i/iconos/tortega-rosa-ico-2.jpg)
 Este iconos sufrió una simplificación muy grande ya que decidí por hacer un “zoom” a la obra centrándome solo en el habitáculo de la cocina y la interacción de la curva del techo y la rectas del espacio habitable. este cambio sucedió por la necesidad de buscar una forma de disminuir la cantidad de detalles dentro del dibujo.
 
 
 ####Hospederia colgante
-![Tomás Ortega](img/ca/iconos 2/clg.jpg)
+![Tomás Ortega](i/iconos/tortega-colgante-ico-2.jpg)
 En este icono quise seguir insistiendo en las curvas del revestimiento de la casa, y siguiendo la nueva grilla adapte el icono al trazo, y le quite la relación que existí!a entre la obra y la superficie, ya que no se lograba notar bien y solo venia a hacer ruido a la composición.
 
 ###Parte alta
 
 ####Palacio del alba y el ocaso
-![Tomás Ortega](img/ca/iconos 2/plc.jpg)
+![Tomás Ortega](i/iconos/tortega-palacio-ico-2.jpg)
 Este icono fue cambiado en la manera en la que se mira la obra, termine decidiendo por dejar solo la unidad discreta (El muro con tres o cuatro curvas) puesto contra el trazo que dibujado en el piso que sirvió para contrastar el color del icono.
 
 ####Faubourg
-![Tomás Ortega](img/ca/iconos 2/fbrg.jpg)
+![Tomás Ortega](i/iconos/tortega-faubourg-ico-2.jpg)
 La composición fue variando un poco insistiendo en los contornos de las formas ortogonales regulares, y en la presencia de distintos niveles que se ven reflejados en el dibujo por trazos paralelos horizontales que son interrumpidos por la base de estos objetos.
 
 
 ####Hospederia del errante
-![Tomás Ortega](img/ca/iconos 2/ernt.jpg)
+![Tomás Ortega](i/iconos/tortega-errante-ico-2.jpg)
 Este icono sufrió grandes cambios, sobretodo por el tipo de composición y la manera en la que se aborda la observación, ya que en esta versión me enfoco en una de las ventanas de la obra y no en su totalidad, la diagonal como carácter fue enfatizada siguiendo un orden más claro, y un ritmo claro y reconocible. 
 
 ####Megaterio
+![Tomás Ortega](i/iconos/tortega-megaterio-ico-2.jpg)
 ![Tomás Ortega]img/ca/iconos 2/(megtr.jpg)
 En esta obra deje de lado (parcialmente) la perspectiva como tal, para poder desprenderme de la previsualización del objeto y poder tener un mismo ritmo con el total de la familia icónica. Para poder componer esta obra tomé como base la horizontalidad y las rectas como pilares que aparecían luminicamente como objetos más claros, de esta forma se fue construyendo una dibujo regular que toma sentido en su contexto.	  
 
 ####Pozo escultórico
-![Tomás Ortega](img/ca/iconos 2/pz.jpg)
+![Tomás Ortega](i/iconos/tortega-pozo-ico-2.jpg)
 En este icono el desafío fue la adaptación a la nueva grilla y la reutilización del “nuevo trazo”, que dio como resultado como una forma más simple de dibujo del pozo en un plano  que vive entre la perspectiva y lo plano.
 
 
