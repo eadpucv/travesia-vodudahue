@@ -165,6 +165,7 @@ Se trabaja en los íconos para la exposición (35x35 cms)
 
 ####Hospedería de la rosa de los vientos
 
+![Daniela Gajardo](i/iconos/ic-rosa-dg-1.jpg)
 
 **Geometría:** *Las diagonales conviven con lo curvo. Existe una relación de diferencia de dirección en las ventanas, existen quiebres y horizontes dibujados.*
 
