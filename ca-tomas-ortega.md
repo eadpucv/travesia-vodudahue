@@ -158,7 +158,6 @@ Evolución del diseño, a través del concepto de la extensión y la ortogonalid
 
 ![Tomás Ortega](i/croquis/tortega-pozo-es-1.JPG)
 
-![Tomás Ortega](img/ca/esquema/esquema pozo.JPG)
 Esquema previo a la versión final.
 
 
@@ -176,7 +175,7 @@ La hospedería presenta una diagonales muy fuerte que caracteriza la lejanía de
 La obra aparece en el conjunto de sus unidades, las puntas de las arpas dan el ritmo de la trama junto con la variación de los tubos, que en su conjugación generan la modulación que da un carácter a la obra. La obra está guiada por una diagonal muy potente, la cual le entrega su mayor carácter tanto en la lejanía como a su lado.
 
 ####Pilares de Hormigón
-![Tomás Ortega](img/ca/iconos/pilares.jpg)
+
 El carácter de la obra está en dos verticales que se extienden paralelas sobre una duna, estas van unidas por una horizontal . La obra linealmente vista es similar a una “H”, en lo que difiere es su claro volumen compuesto entre cilindros y recortes circulares, deja una luminosidad tridimensional que entrega un fuerte carácter.
 
 
