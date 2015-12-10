@@ -213,7 +213,7 @@ La repetición de la geometría de las ventanas hace aparecer una sucesion de el
 
 ####Pozo escultórico
 
-
+![Daniela Gajardo](i/iconos/ic-pozo-dg-02.jpg)
 *El espacio geométrico, la forma geometrica hacia una profundidad, adentrarse en el quiebre.El rasgo aparece desde el quiebre.*
 
 ###Quinta jornada: iconos digitales
