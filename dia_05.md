@@ -7,20 +7,26 @@
 #### Cubícula
 - Traslado de vigas: Un grupo de 4 estudiantes comienzan a trasladar 15 vigas de 3,6 m. x 2' x 6' desde la bodega a la obra, éstas serían utilizadas más tarde para ser apoyadas en los pilotes y sostener el suelo de la obra.
 - Corte de excedente de pilotes: Los profesores Herbert y Alfred continuan con la faena emprendida el día anterior de cortar el excedente de los pilotes para que queden a nivel.
+
+![](i/fotos/Renivel 3.JPG)
 - Renivel de las fundaciones: Se verifica  el nivel real en que quedaron los pilotes, encontrando diferencias importantes entre ellos, razón por la cual se vuelven a marcar y a cortar. Posteriormente se vuelve a medir y se vuelven a encontrar diferencias, razones por las cuales se decide volver a hacer el trazado con la pita y las estacas armando una red de pita sobre los pilotes. 
 
+![Renivel 2](i/fotos/Renivel 2.JPG)
 
 
 - Sellado de planchas: Paralelo a lo anterior, se comenzó la faena de carbonilear y sellar las planchas que serían parte del suelo.
 
 - Construcción de paneles: Junto con lo anterior, se comienza también a construir los paneles que serían las paredes de la cubícula.
 
-
+![Construcción panel 1](i/fotos/Panel 1.JPG)
 
 #### Escultura: Extensión Americana
 
 - **Armado**: Las pájaras pintadas en el día anterior comenzaron a ser ensambladas. Para armarlas, existían dos tipos de unidades diferentes: piezas sin semicortes y piezas con semicortes, las cuales se atornillaban a la pieza lisa. Se fijaba la pieza lisa a una superficie con ayuda de los sargentos o las prensas, se encolaba la parte curva y se pegaba una de las otras piezas (los semicortes le dan flexibilidad a la madera) con ayuda de un sargento. Se le hacía una perforación con el taladro y luego se atornillaba, esto se repetía en 5 puntos diferentes por cada lado de la pieza lisa, por ende, cada pájara correspondía a 3 piezas: una lisa y dos con semi cortes. 4 de estas pájaras terminaron con 4 piezas, ya que sobraban 4 piezas, las cuales se repartieron.
 
+![Armado pájaras 1](i/fotos/Armado pájaras 1.JPG)
+![Armado pájaras 2](i/fotos/Armado pájaras 2.JPG)
+![Armado pájaras 3](i/fotos/Armado pájaras 3.JPG)
 
 
 - **Preparación del lugar**: Luego de haber terminado las 12 pájaras, tocaba despejar y limpiar el espacio en donde la escultura tomaría lugar. Este sector se encontraba un poco más atrás de la cubícula, adentrándose al bosque. Aquí hubo que cortar algunas ramas y troncos para despejar el follaje, ya que la escultura iría montada en el aire, suspendida entre los árboles.
@@ -29,7 +35,11 @@
 
 #### Cubícula
 - **Renivel**: Se trata de confirmar el nivel de la red pero esta vez con el nivel de laser, encontrando nuevas diferencias.
+
+![Renivel fundaciones](i/fotos/Renivel 1.JPG)
+
 - **Presentación y selección de vigas**: Producto de las complicaciones anteriores es que se opta por ir seleccionando cada viga (dado que su ancho podía variar), éstas iban siendo presentadas en la ubicación en que podrían ir, cambiandolas de lugar dependiendo de en donde podrían tener más apoyo.
+
 - **Fijación de las vigas**: Con un lado puesto y fijado se comienzan a fijar las vigas perpendiculares a ésta. Debido a que éstas no alcanzan a cubrir el largor de la obra se debe hacer una extensión de la misma a partir del ensamble con otra viga de un ancho similar, por lo tanto ahora había que hacer coincidir la unión con la viga perpendicular que cerraba la cuadrícula, de tal forma que había que seleccionar las vigas que siendo irregulares calzaran con esas dos dimensiones en una misma extensión determinada. Toda esta faena llevó bastante tiempo, teniendo que continuar más allá de la jornada de trabajo ordinaria e incluso más allá de la cena, hasta la noche. En ello se quedaron los tres profesores, los profesores ayudantes y un par de alumnos, quienes finalmente lograron terminar con el suelo, quedando sólo 1 viga a medio fijar, la cual sería rematada en la mañana del día siguiente.
 
 #### Escultura: Extensión Americana
@@ -38,7 +48,9 @@
 
 
 
+
 Durante esta jornada, se pensó bien como colgar las pájaras, ya que habría que bajar y subirlas a cada momento de colocar una nueva pájara y el peso cada vez sería mayor. La faena concluyó aquí para seguir con el montaje final al día siguiente. 
+
 
 
 
