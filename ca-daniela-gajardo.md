@@ -157,6 +157,8 @@ Se trabaja en los íconos para la exposición (35x35 cms)
 
 ####Pilares de hormigón
 
+![Daniela Gajardo](i/iconos/ic-pilares-dg-03.jpg)
+
 *Aparición y convivencia entre el horizonte lineal y el perfil curvo.Sucesión de perfiles, el cruce de la horizontalidad y verticalidad de la obra.*
 
 **Geometría:** *El trazo posee distingo en los grosores, con diferentes alturas. Aparecen diagonales que insinuan parte e la forma. La figura horizontal es intersectada por estos ejes. Existe una transparencia, la tensión se marca en el punto de encuentro entre ambas.*
