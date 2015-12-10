@@ -7,15 +7,18 @@
 #### Cubícula
 - Traslado de vigas: Un grupo de 4 estudiantes comienzan a trasladar 15 vigas de 3,6 m. x 2' x 6' desde la bodega a la obra, éstas serían utilizadas más tarde para ser apoyadas en los pilotes y sostener el suelo de la obra.
 - Corte de excedente de pilotes: Los profesores Herbert y Alfred continuan con la faena emprendida el día anterior de cortar el excedente de los pilotes para que queden a nivel.
+
+![](i/fotos/Renivel 3.JPG)
 - Renivel de las fundaciones: Se verifica  el nivel real en que quedaron los pilotes, encontrando diferencias importantes entre ellos, razón por la cual se vuelven a marcar y a cortar. Posteriormente se vuelve a medir y se vuelven a encontrar diferencias, razones por las cuales se decide volver a hacer el trazado con la pita y las estacas armando una red de pita sobre los pilotes. 
 
+![Renivel 2](i/fotos/Renivel 2.JPG)
 
 
 - Sellado de planchas: Paralelo a lo anterior, se comenzó la faena de carbonilear y sellar las planchas que serían parte del suelo.
 
 - Construcción de paneles: Junto con lo anterior, se comienza también a construir los paneles que serían las paredes de la cubícula.
 
-
+![Construcción panel 1](i/fotos/Panel 1.JPG)
 
 #### Escultura: Extensión Americana
 
@@ -32,7 +35,11 @@
 
 #### Cubícula
 - **Renivel**: Se trata de confirmar el nivel de la red pero esta vez con el nivel de laser, encontrando nuevas diferencias.
+
+![Renivel fundaciones](i/fotos/Renivel 1.JPG)
+
 - **Presentación y selección de vigas**: Producto de las complicaciones anteriores es que se opta por ir seleccionando cada viga (dado que su ancho podía variar), éstas iban siendo presentadas en la ubicación en que podrían ir, cambiandolas de lugar dependiendo de en donde podrían tener más apoyo.
+
 - **Fijación de las vigas**: Con un lado puesto y fijado se comienzan a fijar las vigas perpendiculares a ésta. Debido a que éstas no alcanzan a cubrir el largor de la obra se debe hacer una extensión de la misma a partir del ensamble con otra viga de un ancho similar, por lo tanto ahora había que hacer coincidir la unión con la viga perpendicular que cerraba la cuadrícula, de tal forma que había que seleccionar las vigas que siendo irregulares calzaran con esas dos dimensiones en una misma extensión determinada. Toda esta faena llevó bastante tiempo, teniendo que continuar más allá de la jornada de trabajo ordinaria e incluso más allá de la cena, hasta la noche. En ello se quedaron los tres profesores, los profesores ayudantes y un par de alumnos, quienes finalmente lograron terminar con el suelo, quedando sólo 1 viga a medio fijar, la cual sería rematada en la mañana del día siguiente.
 
 #### Escultura: Extensión Americana
