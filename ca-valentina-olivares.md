@@ -4,11 +4,11 @@
 ### Parte baja
 #### Hospedería de la entrada
 
-![H.de la entrada](i/croquis/v-hentrada2.jpg)
+![H.de la entrada](i/croquis/volivares-hentrada-cro-2.jpg)
 
 La obra se presenta a través de su emplazamiento y volumen dando la bienvenida a los huéspedes de ciudad abierta. La suspensión de la obra entrega otra dimensión desde la cual puede ser contemplada, la obra presenta dos horizontes 
 
-![H.de la entrada](i/croquis/v-hentrada.jpg)
+![H.de la entrada](i/croquis/volivares-hentrada-cro.jpg)
 
 La distorsión de la trama hace aparecer la forma sobre el volumen
 
