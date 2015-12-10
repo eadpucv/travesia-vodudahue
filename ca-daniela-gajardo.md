@@ -188,6 +188,7 @@ Qué es lo uno y lo otro, la abstracción aparece desde el contorno de una forma
 
 ####Faubourg
 
+![Daniela Gajardo](i/iconos/ic-fau-dg.jpg)
 
 *Perfiles verticales, existe un conjunto de grises superpuestos, geometría. El ascenso de los perfiles verticales, gradación de tamaños, se crea un nuevo horizonte desde la geometría de la construcción.*
 
@@ -195,7 +196,7 @@ Qué es lo uno y lo otro, la abstracción aparece desde el contorno de una forma
 
 ####Hospedería del Errante
 
-
+![Daniela Gajardo](i/iconos/ic-errante-dg.jpg)
 *Manto modulado en diagonales. El ascenso de la línea en una modulación, cambia su sentido mediante los quiebres, se forma un contorno quebrado que posee su propio ritmo en el ascenso.
 *
 
