@@ -293,13 +293,13 @@ Unidades alternas dispuestas en un  trazo  diagonal que proyecta un juego de pla
 
 #### Faubourg
 
-![Constanza Valdivia](img/ca/iconos 2/faubourg-icono-2.jpg)
+![Constanza Valdivia](i/iconos/faubourg-icono-2.jpg)
 
 Composición de líneas rectas alternas en una irregularidad que proyecta una variación de ángulos rectos.
 
 #### Hospedería del Errante
 
-![Constanza Valdivia](img/ca/iconos 2/h-errante-icono-2.jpg)
+![Constanza Valdivia](i/iconos/h-errante-icono-2.jpg)
 
 La geometría diagonal paralela de las líneas dibujadas en el manto, destacan como identidad del cuerpo.
 
@@ -307,13 +307,13 @@ Se alternan valores  de líneas generando una ondulación que rescata  el valor 
 
 #### Megaterio
 
-![Constanza Valdivia](img/ca/iconos 2/megaterio-icono-2.jpg)
+![Constanza Valdivia](i/iconos/megaterio-icono-2.jpg)
 
 De geometría recta se compone su volumen, trazando su horizontalidad y componiendo su volumen.
 
 #### Pozo Escultorico
 
-![Constanza Valdivia](img/ca/iconos 2/pozo-icono-2.jpg)
+![Constanza Valdivia](i/iconos/pozo-icono-2.jpg)
 
 
 
