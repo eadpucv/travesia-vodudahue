@@ -139,9 +139,9 @@ Cada alumno sube sus casos de estudio, grillas y abstracciones de cada obra.
 
 ### Pozo Escultorico
 
-![Constanza Valdivia](img/ca/esquema/pozo-escultorico-estudio.jpg)
+![Constanza Valdivia](i/croquis/pozo-escultorico-estudio.jpg)
 
-![Constanza Valdivia](img/ca/esquema/pozo-escultorico-maqueta.jpg)
+![Constanza Valdivia]
 
 ## Tercera jornada: Producción (originales)
 
