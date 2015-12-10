@@ -110,53 +110,53 @@ Insistencia en la forma de las puntas de las arpas, y esquemas de la obra.
 Insistencia en el gesto, la forma y la diagonal en pruebas en tamaño grande (esta fue la primera obra por lo que también pasó por un proceso primario del trazo). Cada esquema pasa por un proceso de búsqueda de un equilibrio del peso del color a través de la composición del trazo.
 
 ####Pilares de Hormigón
-
-
+![Tomás Ortega](i/croquis/tortega- hormigon-es-1.jpeg)
 Primer esquemas hechos en cuaderno, una aproximación al carácter de la obra.
+
 ![Tomás Ortega](i/croquis/tortega-hormigon-es- 2.JPG)
 Segundo esquema, en tamaño grande.
 
 ####Hospedería Rosa de los vientos
 
-![Tomás Ortega](img/ca/esquema/esquema rosa.JPG)
+![Tomás Ortega](i/croquis/tortega-rosa-es-1.JPG)
 Prueba anterior al original, donde se enfatizan los techos de cada habitáculo de la obra, contraponiendo las curvas del espacio (el contexto) que acompaña a la obra en su gesto.
 
 ####Hospedería Colgante  
 
-![Tomás Ortega](img/ca/esquema/esquema colgante 2.JPG)
-![Tomás Ortega](img/ca/esquema/esquema colgante.JPG)
+![Tomás Ortega](i/croquis/tortega-colgante-es- 1.JPG)
 Dos esquemas que sigue una línea de abstracción, quitando elementos, y enfatizando la curva del revestimiento, también se juega con la modulación del trazo.
 
 ### Parte alta
 
 ####Palacio del Alba y el Ocaso
 
-![Tomás Ortega](img/ca/esquema/esquema palacio.jpeg)
+![Tomás Ortega](i/croquis/tortega-palacio-es-1.jpeg)
  
 Primer esquema hecho directo en el croquis, es el primer acercamiento a la geometría de la obra.
 
-![Tomás Ortega](img/ca/esquema/esquema palacio 2.JPG)
+![Tomás Ortega](i/croquis/tortega-palacio-es-2.JPG)
 Segundo esquema antes del original.
 
 ####Faubourg 
 
-![Tomás Ortega](img/ca/esquema/esquema faubourg1.JPG)
+![Tomás Ortega](i/croquis/tortega-faubourg-es-1.JPG)
 Esquema en tamaño grande.
 
 ####Hospedería del Errante
 
-![Tomás Ortega](img/ca/esquema/esquema errante.jpeg)
-![Tomás Ortega](img/ca/esquema/esquema errante 2w.JPG)
-![Tomás Ortega](img/ca/esquema/esquema errante 3w.JPG)
+![Tomás Ortega](i/croquis/tortega-errante-es -1.jpeg)
+![Tomás Ortega](i/croquis/tortega-errante-es -2.JPG)
+![Tomás Ortega](i/croquis/tortega-errante-es -3.JPG)
 Esquemas con distintos desarrollos de ideas.
 
 ####Megaterio
-
-![Tomás Ortega](img/ca/esquema/esquema megaterio.JPG)
-![Tomás Ortega](img/ca/esquema/esquema megaterio 2.JPG)
+![Tomás Ortega](i/croquis/tortega-megaterio- 1.JPG)
+![Tomás Ortega](i/croquis/tortega-megaterio- 2.JPG)
 Evolución del diseño, a través del concepto de la extensión y la ortogonalidad de la sombra.
 
 ####Pozo Escultórico
+
+![Tomás Ortega](i/croquis/tortega-pozo-es-1.JPG)
 
 ![Tomás Ortega](img/ca/esquema/esquema pozo.JPG)
 Esquema previo a la versión final.
