@@ -93,6 +93,7 @@ El dibujo persiste en hacer aparecer la orientación, aquella dirección a la qu
 
 ####Hospedería Colgante
 
+![Daniela Gajardo](i/croquis/h-colgante-esq-dg.jpg)
 
 ####Palacio del Alba y el Ocaso
 
