@@ -8,19 +8,19 @@
 
 La obra se presenta a través de su emplazamiento y volumen dando la bienvenida a los huéspedes de ciudad abierta. La suspensión de la obra entrega otra dimensión desde la cual puede ser contemplada, la obra presenta dos horizontes 
 
-![H.de la entrada](img/ca/croquis/Ventrada2.jpg)
+![H.de la entrada](i/croquis/v-hentrada.jpg)
 
 La distorsión de la trama hace aparecer la forma sobre el volumen
 
 
 #### Arpa eólica
-![Arpa eolica](img/ca/croquis/Varpa.jpg)
+![Arpa eolica](i/croquis/v-arpa.jpg)
 
 Las diagonales que componen el conjunto conforman el contorno de la figura y se ordenan los elementos que componen la obra. La forma en que la diagonal se presenta genera un perfil de sombras que pertenecen a la forma, dejándola expuesta frente a nosotros.
 
 
 #### Pilares de Hormigón
-![Pilares](img/ca/croquis/Vpilares.jpg)
+![Pilares](i/croquis/v-pilares.jpg)
 
 Aparece en su materialidad que contrasta con el espacio de la duna y vegetación, además de las rectas y las curvaturas que lo sobreponen horizontalmente.
 
