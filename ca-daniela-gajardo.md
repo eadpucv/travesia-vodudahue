@@ -89,7 +89,7 @@ Aparece cierta transparencia, aquello que se deja ver a través de los ejes diag
 El dibujo persiste en hacer aparecer la orientación, aquella dirección a la que apunta la obra*
 
 ####Pilares de Hormigón
-
+![Daniela Gajardo](i/croquis/p-hormigon-dgc.jpg)
 
 ####Hospedería Colgante
 
