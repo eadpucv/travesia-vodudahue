@@ -171,7 +171,7 @@ Se trabaja en los íconos para la exposición (35x35 cms)
 
 ####Hospedería Colgante
 
-
+![Daniela Gajardo](i/iconos/ic-hosp-dg.jpg)
 *Interacción de curvas, la sucesión de caras. Existe un blanco que prevalece y resalta dentro de un contexto. Desde la altura aparece en contraste entre lo curvo y lo recto.*
 
 **Geometría:** *El dibujo de la curva se traza levemente respecto de la rectitud*
