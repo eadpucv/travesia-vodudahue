@@ -4,7 +4,7 @@
 ### Parte baja
 #### Hospedería de la entrada
 
-![Tomás Ortega](i/croquis/tortega-hospederia-entrada.jpeg)
+![Tomás Ortega](i/croquis/tortega-entrada-2.jpeg)
 *El signo, el techo la diagonal, la extensión de la forma y la trama que se forma por debajo del habitáculo dan el carácter y el perfil de la obra. la vegetación es parte importante de la conjugación de la forma (la diagonal).*
 
 ![Tomás Ortega](../img/ca/croquis/entrada 1.jpeg)
