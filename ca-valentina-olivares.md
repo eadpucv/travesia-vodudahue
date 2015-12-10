@@ -34,25 +34,25 @@ Suelo construido para el descanso,  compuesto de horizontales y diagonales que s
 
 
 #### Hospedería Colgante
-![Colgante](img/ca/croquis/Vcolgante.jpg)
+![Colgante](i/croquis/v-hcolgante.jpg)
 
 Su emplazamiento en la duna le otorga un contraste entre el espacio y su materialidad, aparecen los paneles curvos que la caracterizan y la hacen presente en las arenas.
 
 
 #### Palacio del Alba y el Ocaso
-![Palacio](img/ca/croquis/Vpalacio.jpg)
+![Palacio](i/croquis/v-palacio.jpg)
 
 Se presenta la materialidad como ladrillo y la curva de la estructura que otorga luminosidad y contraste al conjunto de figuras que aparecen en el horizonte.
 
 
 #### Hospedería del Errante
-![Errante](img/ca/croquis/Verrante.jpg)
+![Errante](i/croquis/v-herrante.jpg)
 
 Aparece a través del trabajo en su forma, las distinciones entre recta y curvas generan el perfil de la hospedería, además de las interrupciones luminosas como ventanas y celosías.
 
 
 #### Megaterio
-![Megaterio](img/ca/croquis/Vmegaterio.jpg)
+![Megaterio](i/croquis/v-megaterio.jpg)
 
 Aparece en su materialidad de hormigón y cómo se emplaza en el espacio, la perspectiva que entregan sus verticales y cómo estas interactúan con la luz, generando perfiles de sombras.
 
