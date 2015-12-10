@@ -48,8 +48,8 @@ Jaime Reyes
     El Príncipe de Aquitania, el de la Torre abolida
     Muerta está mi única Estrella, - y mi constelado laúd
     Luce el Sol negro de la Melancolía.
- 
-> Amereida II bitácora: Notas Varios autores; Fragmento nota 2
+    
+    Amereida II bitácora: Notas Varios autores; Fragmento nota 2
 
 Nos reunimos a las 18.00 en el puente para jugar. Rémy Bender, alumno de intercambio, lee un fragmento de en francés de el poema de Gerard de Nerval, “El Desdichado”. Jaime nos lee en español y nos explica el juego. Tiene 36 cartas, dice que hagamos parejas y elige tres jurados. Cada carta se lee de una manera específica por su contenido; una imagen que reúne varios conceptos y luego estos, son interpretados por cada pareja. Entonces, los jurados deciden, a su parecer, si lo que cada pareja dice de cada carta es aceptable o si puede tener otra lectura más acertada.
 
