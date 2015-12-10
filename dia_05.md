@@ -21,7 +21,7 @@
 
 - **Armado**: Las pájaras pintadas en el día anterior comenzaron a ser ensambladas. Para armarlas, existían dos tipos de unidades diferentes: piezas sin semicortes y piezas con semicortes, las cuales se atornillaban a la pieza lisa. Se fijaba la pieza lisa a una superficie con ayuda de los sargentos o las prensas, se encolaba la parte curva y se pegaba una de las otras piezas (los semicortes le dan flexibilidad a la madera) con ayuda de un sargento. Se le hacía una perforación con el taladro y luego se atornillaba, esto se repetía en 5 puntos diferentes por cada lado de la pieza lisa, por ende, cada pájara correspondía a 3 piezas: una lisa y dos con semi cortes. 4 de estas pájaras terminaron con 4 piezas, ya que sobraban 4 piezas, las cuales se repartieron.
 
-
+![Armado pájaras 1](i/fotos/Armado pájaras (1).JPG)
 
 
 - **Preparación del lugar**: Luego de haber terminado las 12 pájaras, tocaba despejar y limpiar el espacio en donde la escultura tomaría lugar. Este sector se encontraba un poco más atrás de la cubícula, adentrándose al bosque. Aquí hubo que cortar algunas ramas y troncos para despejar el follaje, ya que la escultura iría montada en el aire, suspendida entre los árboles.
