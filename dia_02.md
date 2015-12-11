@@ -5,22 +5,22 @@
 ##Faenas
 
 ### Primera jornada
-El amanecer nos sorprende con el arribo a Caleta la Arena donde nos encontramos con el grupo de avanzada, esta primera parada es utilizada para poder ir al baño. Tras abordar el transbordador con destino a Puelche seguido del viaje que dura aproximadamente 40 minutos y el regreso nuevamente al continente, se sirve el desayuno. 
+Amanece junto con el arribo a Caleta la Arena donde nos encontramos con el grupo de avanzada. esta primera parada es utilizada para poder ir al baño. Tras abordar el transbordador con destino a Puelche seguido del viaje que dura aproximadamente 40 minutos y el regreso nuevamente al continente, se sirve el desayuno. 
 
 ![Cubierta ferry](img/ruta/11080600_10208092091120626_1777466357963488152_o.jpg)
 
-Ahora el rumbo se encuentra encaminado con destino a Hornopirén donde abordaremos el ferry "Naviera Austral" en dirección a Leptepu, aproximadamente a las 12:00hrs, donde nos acercamos cada vez más a nuestro destino.
+El siguiente destino es Hornopirén, lugar donde nos embarcamos en el ferry "Naviera Austral"  a las 12:00 horas con destino a Leptepu.
 
 
 ### Segunda jornada 
 
 ![Descarga leptepu](img/ruta/1888970_10208092096440759_97207703735260418_o.jpg)
 
-Tras abordar se sirve el almuerzo que corresponde a un sandwich, acompañado de un jugo y fruta en conserva. Tiempo después en la parte superior del ferry, se realiza la primera reunión, donde aparece el primer encargo que busca vincular el trazo o pulso caligráfico con el del dibujo.
+Una vez arriba del ferry se prepara el almuerzo que consiste en un sandwich de atún, acompañado de un jugo y fruta en conserva. Posterior a esto se realiza la primera reunión, donde se da el primer encargo que busca vincular el trazo o pulso caligráfico con el del dibujo.
 
-El trayecto del ferry duró aproximadamente tres horas, donde en todo momento estuvimos inmersos en vegetación. A las 15:00 hrs se llegó a Leptepu y la faena de descarga inicio de forma inmediata, debido a que el bus de mujeres debía regresar en el mismo ferry, para luego descargar el otro bus. Después se comenzó a cargar las lanchas que nos acercarían a Vodudahue, comenzando con los implementos de cocina y un grupo de hombres que serían los encargados de trasladar todas las cosas que llegarían en cada viaje al campamento. Se realizaron un total de 13 viajes, siendo el ultimo a las 20:00 hrs.
+El trayecto en ferry duró aproximadamente tres horas. A las 15:00 hrs llegamos a Leptepu donde se descargó de forma inmediata todo el equipaje que se venía dentro del bus de mujeres para luego descargar el otro bus de hombres. Después se comenzó a cargar en las lanchas que nos llevan a Vodudahue, los implementos de cocina más todas las cosas que se descargaron de los buses. Se realizaron un total de 13 viajes, siendo el ultimo a las 20:00 hrs.
 
-Mientras las personas en Leptepu cargaban las lanchas, los que estaban en Vodudahue, comenzaron a levantar el campamento, lo que implicaba ubicar y armar las carpas, el trasladando de herramientas, materiales, bolsos,etc, además de hacer el hoyo para un baño y preparar la cena, la cual se sirvió de pie bajo la lluvia, ya que aún no estaba armado el comedor.
+Mientras las personas en Leptepu cargaban las lanchas, los que estaban en Vodudahue, comienzan a levantar el campamento, ubicando y armando las carpas, además de el trasladando de herramientas, materiales y mochilas. Un grupo hace el hoyo para el uso de un primer baño mientras que otro prepara la cena. Se come a la intemperie ya que aún no esta armada la carpa comedor.
 
 
 
@@ -32,7 +32,7 @@ Mientras las personas en Leptepu cargaban las lanchas, los que estaban en Voduda
 - **Azul:** 2 viajes
 - **Acuario (blanca con celeste)**: 2 viaje
 - **Serenade:** 1 viaje
-- La que se queda en pana (Navega Franco, hijo de Boris), último viaje, última lancha en llegar: 2 viajes
+- último viaje, última lancha en llegar: 2 viajes
 
 
 ## Restauro
@@ -41,7 +41,7 @@ Mientras las personas en Leptepu cargaban las lanchas, los que estaban en Voduda
 - Snack: Galletas toddy + Jugo individual (Bus)
 - Almuerzo: Sándwich + fruta en conserva individual + manzana + jugo individual (Ferry)
 - Snack: Super ocho + Leche individual (Leptepu)
-- Cena: Tallarines con salsa bolognesa +  Lechuga + Platano con manjar (Vodudahue)
+- Cena: Tallarines con salsa bolognesa + Lechuga + Platano con manjar (Vodudahue)
 
 
 ## Ámbito
