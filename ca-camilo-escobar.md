@@ -16,8 +16,8 @@
 ####3 Pilares de Hormigón
 
 ![](i/croquis/cen_pilareshormigon.jpg)
-![](cen_pilareshormigonesq.jpg)
- ![](cen_pilareshormigonico1.jpg)
+![](i/croquis/cen_pilareshormigonesq.jpg)
+![](i/croquis/cen_pilareshormigonico1.jpg)
 
 
 
