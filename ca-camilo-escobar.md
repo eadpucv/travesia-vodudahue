@@ -1,10 +1,10 @@
 ##### Autor: Camilo Escobar
 ##Parte Baja
 ####1 Arpa Eólica
-
-![](img/ca/croquis/cen_arpaeolica.jpg)
-![](img/ca/croquis/cen_arpaeolica1.jpg)
-![](img/ca/esquema/cen_arpaeolicaesq.jpg)
+![](i/croquis/cen_arpaeolica.jpg)
+![](i/croquis/cen_arpaeolica1.jpg)
+![](i/croquis/cen_arpaeolicaesq.jpg)
+![](i/croquis/cen_arpaeolicaesq1.jpg)
 
 ####2 Escultura de la Entrada
 
@@ -58,6 +58,7 @@
 
 #### 9 Adagio Cumplido
 
+![](i/croquis/cen_adagiocumplido.jpg)
 ![](img/ca/croquis/cen_adagiocumplido.jpg)
 ![](img/ca/esquema/cen_adagiocumplidoesq.jpg)
 
