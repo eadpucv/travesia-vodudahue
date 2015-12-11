@@ -9,14 +9,14 @@
 ####2 Escultura de la Entrada
 
 ![](i/croquis/cen_esculturaentrada.jpg)
-![](img/ca/croquis/IMG_0016.jpg)
-![](img/ca/esquema/cen_esculturaentradaesq.jpg)
+![](i/croquis/cen_esculturaentradaesq.jpg)
+ 
 
 <p>Es una obra de <b>sencilla traducción icónica</b>. El pictograma toma no su condición luminosa, sino su condición formal. La interpretación gráfica es directa a través de sus perfiles e incorporando los calados verticales que la atraviesan por el centro.</p>
 
 ####3 Pilares de Hormigón
 
-![](img/ca/croquis/cen_pilareshormigon.jpg)
+![](cen_pilareshormigon.jpg)
 
 ####4 Hospedería Rosa de los Vientos
 
