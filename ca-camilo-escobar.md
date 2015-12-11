@@ -8,6 +8,7 @@
 
 ####2 Escultura de la Entrada
 
+![](i/croquis/cen_esculturaentrada.jpg)
 ![](img/ca/croquis/IMG_0016.jpg)
 ![](img/ca/esquema/cen_esculturaentradaesq.jpg)
 
