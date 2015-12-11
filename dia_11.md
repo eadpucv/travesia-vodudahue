@@ -1,10 +1,25 @@
 # Jueves 29 de Octubre
 
-##Faeas
+##Faenas
 
-###Primera jornada
 
-###Segunda jornada
+
+###Primera Jornada:
+
+El día comienza nuevamente con la visita de vacas, por lo que el despertar de todo el campamento se ve enormemente facilitado.
+
+Este día aunque se estuvieran trabajando en distintas faenas y no todos trabajarán en el sector de la obra, se realizó la primera reunión de la mañana en la obra, donde Jaime Reyes leyó parte del cuerpo poético de la travesía, esta lectura sobre las vigas del techo aún no recubierto.
+
+Durante la mañana se terminaron faenas de marcos dentro de la cubicula y la cubierta del techo, mientras que en trabajos paralelos las teselas terminan de pintarse y afinar detalles, para al final de la mañana ser llevadas a la obra y comenzar las faenas de montado.
+
+El almuerzo en esta ocasión no estuvo constituidos por todos, ya que algunos siguieron trabajando en su faenas designadas hasta concluir con lo mínimo para poder alcanzar a cumplir con la meta propuesta para ese día, incluyendo a los profesores. Después del almuerzo, la faena fue casi inmediata por las personas que decidieron seguir avanzando para lograr terminar a tiempo la obra.  
+
+###Segunda Jornada:
+
+Durante la obra se continúan con las faenas de cubierta de techo y murales en la obra, mientras que se cuelgan las teselas.
+
+Sin embargo al momento de cenar estas faenas no logran ser concluidas y los alumnos que estaban trabajando durante el día en las misma debieron regresar y terminar. Esto se prolongó hasta alrededor de las dos o tres de la mañana.
+
 
 ##Restauro
 
@@ -49,19 +64,3 @@ Se preparó la carpa en el horario de la cena para poder celebrar sus 20 años. 
 Para formar la figura de la torta se agruparon de a 8 los cuchuflíes, los cuales después de cantar el cumpleaños fueron repartidos por mesa. Estas se decoraron con flores de papel pintadas con tinta china y también se hizo un cartel de felicitaciones a la “princesa Sofía”.
 
 
-----
-
-Nuevamente la llegada de las vacas al campamento facilitaron el despertar del grupo para ir a tomar desayuno a la hora, el cual esta vez era; pan con huevo o mermelada, con la opción de comer chocapic junto con té, café o leche en polvo, este desayuno debia ser puntual, ya que cada vez nos quedaba menos tiempo y la obra aun se veía inconclusa, por este motivo se decidio pasar lista en el lugar de la obra temprano, donde todos debian asistir. 
-
-Entre medio de las faenas se entregó como snack un paquete de galletas Toddy para dos personas y jugo.
-
-El almuerzo en esta ocasión no estuvo constituidos por todos, ya que algunos siguieron trabajando en su faenas designadas hasta concluir con lo mínimo para poder alcanzar a cumplir con la meta propuesta para ese día, incluyendo a los profesores. Después del almuerzo, la faena fue casi inmediata por parte de las personas que decidieron seguir avanzando para lograr terminar a tiempo la obra.  
-
-Se hace entrega del segundo snack correspondiente a un galletón y caja de leche por persona.
-
-En la cena se realiza un acto de celebración del cumpleaños de una alumna de primer año, Sofía Accatini, alrededor de las 20:30 hrs, donde después de cenar papas fritas con huevo y cebolla salteada, y papas fritas con verdura salteadas para los veganos y vegetarianos, incluyendo el postre de frutas en conserva, se preparó una torta de 200 cuchufli cubiertos con manjar, distribuidos de a 8, para poder distribuirlos después por mesa. El lugar contaba con la decoración de un cartel que decía:  “Feliz cumpleaños princesa Sofía” junto con dibujos acordes a la ocasión, además de serpentina y gorros de princesa. 
-
-## Faenas 
-- ¿Término del suelo, fogón y asientos?
-- Vigas del techo
-- ¿Término del marco de las teselas?
