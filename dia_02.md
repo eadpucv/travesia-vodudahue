@@ -27,7 +27,7 @@ Mientras las personas en Leptepu cargaban las lanchas, los que estaban en Voduda
 
 ### Lanchas y cantidad de viajes.
 
-- **Reina luisa: **3 viajes
+- **Reina luisa:** 3 viajes
 - **Carabineros:** 4 viajes
 - **Azul:** 2 viajes
 - **Acuario (blanca con celeste)**: 2 viaje
