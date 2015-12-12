@@ -32,7 +32,7 @@ Finalizando el día se procedió a construir ejes que permitirían definir los a
 
 ##Toda Luz
 
-Jaime lee el poema construido a partir de la phalene del puente, el [día 8](dia_08.md)
+Durante la jornada, Jaime lee el poema construido a partir de la phalene del puente, el [día 8](dia_08.md)
 
     Un mar
     de fieras de cultivo
