@@ -11,7 +11,8 @@ Cuando el almuerzo fue servido, se dio inicio a la tarde libre.
 ### Segunda jornada
 
 La tarde comenzó con el viaje a las cinco de la tarde a Leptepu donde se cargaron los pañoles de obra y los de cocina, de igual forma ambas carpas.
-A la llegada de los alumnos que cargaron los buses se sirvió la comida y se dio por cerrada la cocina.
+
+A la llegada de los alumnos que cargaron los buses se sirvió la comida y se dio por cerrada la cocina, para ir más tarde a la Cubícula Cardinal a presenciar el último acto correspondiente a la travesía.
 
 
 ## Restauro
