@@ -1,5 +1,5 @@
 # Sábado 31 de Octubre
-
+![Cubícula en el acto final](Acto de celebración.jpg)
 
 ## Faenas
 
