@@ -1,6 +1,22 @@
 # Miércoles 28 de Octubre
 
 ##Faenas
+Las faenas de este día paralelamente correspondían a finalizar las labores del día anterior:
+El pintado de las teselas restantes en una línea de producción que se organizaba en diversas estaciones:
+-pintado de colores:
+con estación por color separado, amarillo, azul y naranjo.
+-Control de calidad:
+Quienes verificaban el diseño y la calidad de la técnica efectuada sobre las teselas ya pintadas, devolviendo a la primera estación de no cumplir con un criterio mínimo (como la necesidad de pinceladas uniformes o el pasarse de la línea límite estándar al pintar) o re-pasándolas ellos mismos.
+-Repasado de la fuente:
+Las partes incompletas del impreso tipográfico se completan repasándose con pintura negra con pincel, deformando menos posible los contornos del carácter.
+-Pintado de cantos:
+En negro con un fino pincel se delineaban los cantos laterales de la tesela.
+
+Por otro lado se comenzó con la faena para planificar y comenzar/terminar de construir las cerchas por grupos organizados en 1° año: restauro, trabajo, cocina y acceso.
+
+Finalizando el día se procedió a construir ejes que permitirían definir los agujeros del montaje de pilares para la edificación de la estructura, la cual sostendría la proyección del techo. Se cavaron 2 o 3, los cuales posteriormente tuvieron que ser reubicados debido a una mala primera disposición espacial. Se ocupaban dos chuzos a los que se les anudaba una pita que servía como línea proyectada desde un vértice de la cubícula o punto de referencia en conjunto a esta. Se montaba un primer eje y a una distancia de 2 mts. App. Se incorporaba una paralela con el segundo chuso. Para determinar su condición de paralelas se medía en un comienzo, en un medio y en un final la distancia perpendicular entre estas dos proyecciones.
+
+
 
 ###Primera jornada
 
