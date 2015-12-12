@@ -9,7 +9,7 @@ El desayuno nuevamente nos reúne a todos, para luego dar comienzo a las faenas 
 
 ![Almuerzo día 13](Celebración2.jpg)
 ![Acto de celebración](Celebración.jpg)
-![Almuerzo Celebración](Almuerzo.jpg)
+![Almuerzo celebración](Almuerzo.jpg)
 
 
 Fue tras este momento de celebración que la mayoría de los alumnos no tuvo más tareas de travesía, salvo los alumnos de restauró quienes debieron cerrar el banquete y comenzar a preparar la cena.
