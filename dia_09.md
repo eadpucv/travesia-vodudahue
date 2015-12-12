@@ -23,8 +23,9 @@ Para armarlas, las 2 piezas que componían el eje debían estar volteadas en rel
 **Teselas:** Durante la tarde, seguimos con la misma faena de la mañana. Pero paralelamente, las teselas que ya estaban listas en la mañana fueron llevadas al lugar de la escultura, ya que ahí estás serían pintadas de 3 colores: Amarillo rey, naranjo y azul con blanco. Luego de pintarlas se colgaban para dejar que se secaran y las dejamos allí cubiertas con un plástico ya que por la noche comenzó a llover.
 
 
-![](teselas pintar1.jpg)
-![Color teselas](colores teselas.jpg)
+![Pintado Teselas](teselas pintar1.jpg)
+
+![pintado](colores teselas 2.jpg)```
 
 ## Restauro
 
