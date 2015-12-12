@@ -1,5 +1,5 @@
 # Sábado 31 de Octubre
-![Cubícula en el acto final](Acto de celebración.jpg)
+![Cubícula en el acto final](i/fotos/Acto de celebración.jpg)
 
 ## Faenas
 
@@ -7,9 +7,9 @@
 
 El desayuno nuevamente nos reúne a todos, para luego dar comienzo a las faenas de cierre que consisten en terminar los últimos detalles de la obra tales como; instalar los vidrios, limpiar el entorno de la obra, los baños y duchas que nos facilitaron a lo largo de la estadía en Vodudahue. Estas fueron concluidas alrededor del mediodía, dando paso al acto de cierre de la obra en el sector de las pájaras, reuniendo a los profesores, alumnos e invitados, tales como, los Sargentos de Vodudahue, Don Oscar y familia. Al finalizar la lectura de Jaime Reyes y las palabras de agradecimiento del grupo de profesores, se dio inicio a la celebración de la finalización constructiva de la obra y la apertura de la Cubícula Cardinal, realizando un banquete alrededor de la Cubícula, preparado por los encargados correspondientes al grupo de restauró.
 
-![Almuerzo día 13](Celebración2.jpg)
-![Acto de celebración](Celebración.jpg)
-![Almuerzo celebración](Almuerzo.jpg)
+![Almuerzo día 13](i/fotos/Celebración2.jpg)
+![Acto de celebración](i/fotos/Celebración.jpg)
+![Almuerzo celebración](i/fotos/Almuerzo.jpg)
 
 
 Fue tras este momento de celebración que la mayoría de los alumnos no tuvo más tareas de travesía, salvo los alumnos de restauró quienes debieron cerrar el banquete y comenzar a preparar la cena.
@@ -34,11 +34,11 @@ Jaime Reyes, Alfred Thiers @Bosque-Pájaras
 
 **“El objetivo de la travesía ha sido logrado, pero no significa un final, sino que otro comienzo.”**
 
-![Acto final](Acto final.jpg)
+![Acto final](i/fotos/Acto final.jpg)
 
 Nos reunimos bajo las Pájaras, formando un círculo grande con todos los que participaron en la travesía, los sargentos de Vodudahue, Don Oscar y su familia. El poeta leyó un fragmento de Amereida II y luego Alfred dió unas palabras de agradecimiento al lugar y a todos los que hicieron posible, sin mayores complicaciones, esta experiencia, esta travesía.
 
-![Último Acto](Ultimo Acto.jpg)
+![Último Acto](i/fotos/Ultimo Acto.jpg)
 
 Jaime Reyes: 
 
