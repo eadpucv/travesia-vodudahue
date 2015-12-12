@@ -4,11 +4,10 @@
 
 ### Primera jornada
 
-El desayuno nuevamente nos reúne a todos, para luego dar comienzo a las faenas de cierre que consistieron en terminar los últimos detalles de la obra tales como; instalar los vidrios, limpiar el entorno de la obra, los baños y duchas que nos facilitaron a lo largo de la estadía en Vodudahue. Estas fueron concluidas alrededor del mediodía, dando paso al acto de cierre de la obra en el sector de las pájaras, reuniendo a los profesores, alumnos e invitados, tales como, los Sargentos de Vodudahue, Don Oscar y familia. Al finalizar la lectura de Jaime Reyes y las palabras de agradecimiento del grupo de profesores, se dio inicio a la celebración de la finalización constructiva de la obra y la apertura del la cubícula cardinal, realizando un banquete alrededor de la cubícula, preparado por los encargados correspondientes al grupo de restauró. 
+El desayuno nuevamente nos reúne a todos, para luego dar comienzo a las faenas de cierre que consisten en terminar los últimos detalles de la obra tales como; instalar los vidrios, limpiar el entorno de la obra, los baños y duchas que nos facilitaron a lo largo de la estadía en Vodudahue. Estas fueron concluidas alrededor del mediodía, dando paso al acto de cierre de la obra en el sector de las pájaras, reuniendo a los profesores, alumnos e invitados, tales como, los Sargentos de Vodudahue, Don Oscar y familia. Al finalizar la lectura de Jaime Reyes y las palabras de agradecimiento del grupo de profesores, se dio inicio a la celebración de la finalización constructiva de la obra y la apertura de la Cubícula Cardinal, realizando un banquete alrededor de la Cubícula, preparado por los encargados correspondientes al grupo de restauró.
 
-![Entrega cuerpo poético](img/obra/DSC06344.JPG)
+Fue tras este momento de celebración que la mayoría de los alumnos no tuvo más tareas de travesía, salvo los alumnos de restauró quienes debieron cerrar el banquete y comenzar a preparar la cena.
 
-Fue tras este momento de celebración que la mayoría de los alumnos no tuvo más tareas de travesia, salvo los alumnos de restauró quienes debieron cerrar el banquete y comenzar a preparar la cena.
 
 ### Segunda jornada
 
