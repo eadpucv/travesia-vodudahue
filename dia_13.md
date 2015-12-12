@@ -8,6 +8,7 @@ El desayuno nuevamente nos reúne a todos, para luego dar comienzo a las faenas 
 
 ![Almuerzo día 13](Celebración2.jpg)
 ![Acto de celebración](Celebración.jpg)
+![Almuerzo Celebración](Almuerzo.jpg)
 
 
 Fue tras este momento de celebración que la mayoría de los alumnos no tuvo más tareas de travesía, salvo los alumnos de restauró quienes debieron cerrar el banquete y comenzar a preparar la cena.
@@ -32,10 +33,14 @@ Jaime Reyes, Alfred Thiers @Bosque-Pájaras
 
 **“El objetivo de la travesía ha sido logrado, pero no significa un final, sino que otro comienzo.”**
 
+![Acto final](Acto final.jpg)
+
+
 Nos reunimos bajo las Pájaras, formando un círculo grande con todos los que participaron en la travesía, los sargentos de Vodudahue, Don Oscar y su familia. El poeta leyó un fragmento de Amereida II y luego Alfred dió unas palabras de agradecimiento al lugar y a todos los que hicieron posible, sin mayores complicaciones, esta experiencia, esta travesía.
 
-Jaime Reyes:
-    
+Jaime Reyes: 
+![Último Acto](Ultimo Acto.jpg)
+
     “¿Centro del tiempo? ¿Amereida? ¿Cruz sobre la
     Amereida? No tan sólo para una vista cartográ-
     fica y casi cosmonáutica; sino cruz reproducida en
@@ -55,3 +60,4 @@ Jaime Reyes:
     les la una a la otra para que haya un signo…”
     
     Página 4, Amereida II
+
