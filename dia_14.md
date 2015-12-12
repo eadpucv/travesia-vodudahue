@@ -4,13 +4,15 @@
  
 ### Primera jornada 
 
-Tras el día de celebración y el aviso del viaje un día posterior el día fue distinto a los anteriores, el desayuno fue dejado sobre la mesa del comedor. Y se prosiguió a realizar las tareas de desmonte del campamento las cuales comenzaron por el desarme de la carpa comedor y la carpa ubicada en la obra, de igual forma se ordenó la cocina y se dejaron sólo las cosas necesarias para el almuerzo y la cena.
-El almuerzo fue servido y marcó la tarde libre.
+Después de un día de celebración y el aviso de que el viaje de regreso a casa sería postergado, debido a que un bus no alcanza a subirse al transfer, provocando que estuviéramos en Vodudahue un día más, lo cual hizo que el día fuera totalmente distinto a los anteriores, donde el desayuno fue dejado sobre la mesa del comedor. Y ciertas personas prosiguieron a realizar las tareas de desmonte del campamento, comenzando por el desarme de la carpa comedor y la carpa ubicada en la obra, luego se ordenó la cocina, donde se dejaron sólo las cosas necesarias para el almuerzo y la cena para los días restantes, repartiendo lo restante dentro del campamento.
+
+Cuando el almuerzo fue servido, se dio inicio a la tarde libre.
 
 ### Segunda jornada
 
 La tarde comenzó con el viaje a las cinco de la tarde a Leptepu donde se cargaron los pañoles de obra y los de cocina, de igual forma ambas carpas.
 A la llegada de los alumnos que cargaron los buses se sirvió la comida y se dio por cerrada la cocina.
+
 
 ## Restauro
 
