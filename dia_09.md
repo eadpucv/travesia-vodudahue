@@ -14,8 +14,8 @@ También se comenzó a pintar el trazo amarillo por la parte exterior.
 
 Para armarlas, las 2 piezas que componían el eje debían estar volteadas en relación a la otra, ya que así se conseguía la torsión de la tesela.
 
-![Ensamble de Tesela](img/obra/DSC05757.JPG)
 
+![](teselas lijar.jpg)
 
 ### Segunda jornada
 **Cubícula:** Se siguó con la faenas de los muebles interiores.
