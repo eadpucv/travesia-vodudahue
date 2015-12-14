@@ -17,7 +17,7 @@
 
 - **Pizarra:** El profesor y poeta Jaime Reyes le encargó a Remy Bender, estudiante de intercambio perteneciente al taller de Diseño Gráfico, que escribiera en la pizarra el nombre de la Travesía más su ubicación.
 
-![Pizarra](img/lugar/10922577_10207871326602687_2676249023592397453_o.jpg)
+![Pizarra](i/fotos/Pizarra01.jpg)
 
 ##Restauro
 
