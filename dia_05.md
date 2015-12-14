@@ -65,6 +65,8 @@ Durante esta jornada, se pensó bien como colgar las pájaras, ya que habría qu
 
 ##Ámbito
 
+![Acto a la luz de las velas](i/fotos/Acto-luz-velas01.JPG)
+
 Acto cuarto, Intervención: Cena a la luz de las velas y acto de magia
 
 @Carpa-comedor Titulante Ámber Oyarzún
