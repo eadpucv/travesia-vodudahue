@@ -6,7 +6,7 @@
 
 - Recolección de piedras: Un grupo va en busca de piedras chicas, medianas y grandes a la ribera del río, piedras que más tarde serán utilizadas de base para las fundaciones y para sostener de forma erguida las mismas.
 
-![Recolección de piedras](img/faenas/DSC05480.JPG)
+![Recolección de piedras](i/fotos/Recoleccion-piedras-niñas.JPG)
 
 - Corte y traslado de troncos ("tococos"): Don Oscar corta con motosierra una serie de troncos de aproximadamente 1,2 mts de largo y 40 cm de diametro. Estos quedarían en el camino que queda entre el campamento y la obra. Tres grupos compuestos por cuatro hombres se dedican a trasladar los troncos a la obra. Mediante un sistema de cuerdas que van desde el tronco a palos menores se levanta, por un lado, y se traslada, por otro, el tronco. Finalmente se trasladan 14 troncos que serverían como pilotes para las fundaciones de la obra.
 
