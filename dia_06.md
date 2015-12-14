@@ -55,6 +55,3 @@ Cuando ya los dos triángulos invertidos estaban listos, sólo faltaba unir el e
 - Siesta hasta las 14:45.
 - Snack: Galletas de avena + Jugo.
 - Cena: Guiso de zapallo con papas fritas + Durazno en conserva con crema.
-
-![Extensión americana](img/obra/Escultura/DSC05803.JPG)
-![Extensión americana](img/obra/Escultura/DSC05864.JPG)
