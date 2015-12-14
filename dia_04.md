@@ -12,7 +12,7 @@
 
 - Trazado y nivelación del suelo de la obra: Con pitas y estacas se comienza a trazar la extensión de la planta de la obra. Estos mismos servirían posteriormente para ubicar las fundaciones y medir los niveles de cada una de ellas. Con esto último se puede comenzar también la tarea de registrar la medida que debe tener cada excavación para contener cada tronco y quedar a nivel.
 
-![Trazado](img/faenas/DSC05541.JPG)
+![Trazado](i/fotos/Trazado-suelo01.JPG)
 
 - Carbonileado de troncos: Los troncos ya ubicados en los alrededores de la obra comienzan a ser carbonileados para sellarlos y protegerlos del exterior.
 
