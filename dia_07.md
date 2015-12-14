@@ -59,8 +59,15 @@ José Díaz:
     Nuestros Pilades, allá, nos tienden sus brazos.
     "¡Para refrescar tu corazón boga hacia tu Electra!"
     Dice aquella a la que en otros días besábamos las rodillas.”
+    
+     El viaje, Charles Baudelaire
 
- El viaje, Charles Baudelaire
+    
+    
+
+
+    
+
 
 
 
