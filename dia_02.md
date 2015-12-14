@@ -46,7 +46,7 @@ Mientras las personas en Leptepu cargaban las lanchas, los que estaban en Voduda
 
 ## Ámbito
 
-![Acto en el ferry](img/ambito/12219520_946130435474560_6484240240595741785_n.jpg)
+![Acto en el ferry](i/fotos/Encargo-gral-jaime.jpg)
 
 Encargo general, Mudar lo adverso en lo favorable
 
