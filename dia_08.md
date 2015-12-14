@@ -29,6 +29,8 @@
 
 ##Ámbito
 
+![Acto Puente Phalène](i/fotos/Phalene01.JPG)
+
 Acto sexto, Juego de las Cartas de la Phalène
 
 Jaime Reyes, Rémy Bender @Puente del río
