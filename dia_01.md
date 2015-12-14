@@ -31,7 +31,7 @@ Cena: Sándwich de hamburguesa + Bebida. (Bus)
 
 ## Ámbito
 
-![Primer acto, salida de la escuela, todos somos un mismo taller](img/ambito/12189259_10208092055879745_4087732857468217126_o.jpg)
+![Primer acto, salida de la escuela, todos somos un mismo taller](i/fotos/Partida-jaime-reyes01.jpg)
 
 Acto primero
 
