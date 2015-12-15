@@ -1,6 +1,6 @@
 # Lunes 19 de Octubre
 
-![Acopio de comida, herramientas y materiales en la sala de primer año de diseño](img/faenas/IMG_8499.JPG)
+![Acopio de comida, herramientas y materiales en la sala de primer año de diseño](i/fotos/acopio-sala.jpg)
 
 ## Faenas
 
