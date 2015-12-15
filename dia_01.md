@@ -8,7 +8,7 @@
 
 El encuentro de ambos talleres fue fijado a las 13:00 horas para cargar todo el equipamiento que se llevó desde Viña del Mar. Por su parte los alumnos pertenecientes al grupo de restauro tuvieron reunión a las 12:00 horas, con el objetivo de poder empacar la comida que faltaba y organizar los snacks correspondientes al primer día de viaje.
 
-![Subiendo a los buses](img/ruta/887446_10208092052399658_2179600479790553435_o.jpg)
+![Subiendo a los buses](i/fotos/cargamento-bus.jpg)
 
 La salida es programada a las 15:30 horas. Desde ese momento los talleres de diseño plan común, tercer año de diseño gráfico y los titulantes invitados pasan a ser un sólo taller mostrando que la travesía ya no es de unos y otros.
 
