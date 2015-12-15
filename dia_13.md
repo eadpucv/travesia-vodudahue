@@ -5,7 +5,11 @@
 
 ### Primera jornada
 
-El desayuno nuevamente nos reúne a todos, para luego dar comienzo a las faenas de cierre que consisten en terminar los últimos detalles de la obra tales como; instalar los vidrios, limpiar el entorno de la obra, los baños y duchas que nos facilitaron a lo largo de la estadía en Vodudahue. Estas fueron concluidas alrededor del mediodía, dando paso al acto de cierre de la obra en el sector de las pájaras, reuniendo a los profesores, alumnos e invitados, tales como, los Sargentos de Vodudahue, Don Oscar y familia. Al finalizar la lectura de Jaime Reyes y las palabras de agradecimiento del grupo de profesores, se dio inicio a la celebración de la finalización constructiva de la obra y la apertura de la Cubícula Cardinal, realizando un banquete alrededor de la Cubícula, preparado por los encargados correspondientes al grupo de restauró.
+El desayuno nuevamente nos reúne a todos, para luego dar comienzo a las faenas de cierre que consisten en terminar los últimos detalles de la obra tales como; instalar los vidrios, limpiar el entorno de la obra, los baños y duchas que nos facilitaron a lo largo de la estadía en Vodudahue. 
+
+![Faenas finales](i/fotos/Faenas finales.jpg)
+
+Estas fueron concluidas alrededor del mediodía, dando paso al acto de cierre de la obra en el sector de las pájaras, reuniendo a los profesores, alumnos e invitados, tales como, los Sargentos de Vodudahue, Don Oscar y familia. Al finalizar la lectura de Jaime Reyes y las palabras de agradecimiento del grupo de profesores, se dio inicio a la celebración de la finalización constructiva de la obra y la apertura de la Cubícula Cardinal, realizando un banquete alrededor de la Cubícula, preparado por los encargados correspondientes al grupo de restauró.
 
 ![Almuerzo día 13](i/fotos/Celebración2.jpg)
 ![Acto de celebración](i/fotos/Celebración.jpg)
