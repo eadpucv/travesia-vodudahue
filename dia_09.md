@@ -10,11 +10,11 @@ También se comenzó a pintar el trazo amarillo por la parte exterior.
 
 **Teselas:** Este día nos dedicamos a sacar las teselas de la plancha de terciado, las cuales no estaban cortadas del todo ya que los cortes de la laser tenían un pequeño puente para que las piezas no se cayeran. Por esto, para sacar las piezas había que repasarlas con un cuchillo cartonero, luego de sacarlas, otro grupo se dedicaba a lijar los cantos para sacar las imperfecciones, luego otro grupo las armaba.
 
-![Lijado teselas](teselas lijar.jpg)!
+![Lijado teselas](i/fotos/lijado.jpg)!
 
 Para armarlas, las 2 piezas que componían el eje debían estar volteadas en relación a la otra, ya que así se conseguía la torsión de la tesela.
 
-![Ensamblado teselas](teselas ensamblar.jpg)
+![Ensamblado teselas](i/fotos/ensamblado-teselas.jpg)
 
 
 ### Segunda jornada
@@ -23,9 +23,9 @@ Para armarlas, las 2 piezas que componían el eje debían estar volteadas en rel
 **Teselas:** Durante la tarde, seguimos con la misma faena de la mañana. Pero paralelamente, las teselas que ya estaban listas en la mañana fueron llevadas al lugar de la escultura, ya que ahí estás serían pintadas de 3 colores: Amarillo rey, naranjo y azul con blanco. Luego de pintarlas se colgaban para dejar que se secaran y las dejamos allí cubiertas con un plástico ya que por la noche comenzó a llover.
 
 
-![Pintado Teselas](teselas pintar1.jpg)
+![Pintado Teselas](i/fotos/pintura-teselas.jpg)
 
-![pintado](colores teselas 2.jpg)```
+![pintado](i/fotos/teselas-pintadas.jpg)```
 
 ## Restauro
 
