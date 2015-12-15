@@ -43,7 +43,6 @@ Cuando ya todos habíamos pasado por ahí, Jaime nos pidió que todos dijéramos
 
 Luego, el alumno Lucas Vildósola, relató el mito de la Ciudad de los Césares, con mucha calma y suspenso. Cuando terminó, nos pidieron que imaginásemos que el papel que retiramos en la cubícula (el que estaba en blanco) era algo que anhelábamos dejar atrás. Luego de pensar en eso, cada uno tenía que tirar su anhelo en la fogata. Nos quedamos en silencio rodeando la fogata por varios minutos... había una sensación de no querer irse de este lugar.
 
-
 ![Acto fogata](i/fotos/Acto fogata.jpg)
 
 Herbert
