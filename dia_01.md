@@ -17,7 +17,7 @@ El viaje comienza con la partida de los dos buses, uno para hombres y el otro pa
 
 ### Segunda jornada
 
-![El trayecto en el bus](i/fotos/.jpg)
+![El trayecto en el bus](i/fotos/ruta-bus.jpg)
 
 En la primera parada, el grupo de restauro entrega el snack personal correspondiente al horario. 
 Durante la noche mientras la gran mayoría duerme, los buses paran en algunas ocasiones a recargar combustible.
