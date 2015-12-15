@@ -6,6 +6,12 @@
 ![](i/croquis/cen_arpaeolicaesq.jpg)
 ![](i/croquis/cen_arpaeolicaesq1.jpg)
 
+
+<p><b>§</b> La obra posee una forma
+muy fuerte y rígida, esto la
+lleva a una traducción
+iconográfica directa.<p> 
+
 <p>Se trata de una serie de tubos-silbatos colocados en postes inclinados de fibrocemento. Estos se disponen a los pies de una de las hospederías que custodian el acceso a los terrenos de la Ciudad Abierta, en una pequeña cuenca formada por las dunas de arena (muy típicas del zona) y que conforma una suerte de pequeña plazoleta.</p>
 
 ####2 Escultura de la Entrada
