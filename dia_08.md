@@ -58,4 +58,3 @@ Nos reunimos a las 18.00 en el puente para jugar. Rémy Bender, alumno de interc
 Jaime va pareja por pareja pidiendo que muestren su carta y digan fuerte la frase que representa cada imagen. Si el jurado está de acuerdo, Aucán va anotando en un cuaderno la frase, y si no está de acuerdo le pide a la pareja que saque otra carta y lo intente de nuevo. Así con las 36 cartas, 36 lecturas que construyeron ese momento y que Jaime reunió para hacer un poema en los próximos días.
 
  
-![Phalène del puente, río Vodudahue](i/fotos/phalene-puente.JPG)
