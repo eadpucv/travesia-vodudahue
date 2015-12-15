@@ -12,6 +12,13 @@ Las partes incompletas del impreso tipográfico se completan repasándose con pi
 -Pintado de cantos:
 En negro con un fino pincel se delineaban los cantos laterales de la tesela.
 
+![Control calidad](i/fotos/control-de-calidad.jpg)
+
+![Control calidad dos](i/fotos/vista-control-calidad.jpg)
+
+
+
+
 Por otro lado se comenzó con la faena para planificar y comenzar/terminar de construir las cerchas por grupos organizados en 1° año: restauro, trabajo, cocina y acceso.
 
 Finalizando el día se procedió a construir ejes que permitirían definir los agujeros del montaje de pilares para la edificación de la estructura, la cual sostendría la proyección del techo. Se cavaron 2 o 3, los cuales posteriormente tuvieron que ser reubicados debido a una mala primera disposición espacial. Se ocupaban dos chuzos a los que se les anudaba una pita que servía como línea proyectada desde un vértice de la cubícula o punto de referencia en conjunto a esta. Se montaba un primer eje y a una distancia de 2 mts. App. Se incorporaba una paralela con el segundo chuso. Para determinar su condición de paralelas se medía en un comienzo, en un medio y en un final la distancia perpendicular entre estas dos proyecciones.
