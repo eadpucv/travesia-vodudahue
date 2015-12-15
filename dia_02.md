@@ -7,14 +7,14 @@
 ### Primera jornada
 Amanece junto con el arribo a Caleta la Arena donde nos encontramos con el grupo de avanzada. esta primera parada es utilizada para poder ir al baño. Tras abordar el transbordador con destino a Puelche seguido del viaje que dura aproximadamente 40 minutos y el regreso nuevamente al continente, se sirve el desayuno. 
 
-![Cubierta ferry](i/fotos/.jpg)
+![Cubierta ferry](i/fotos/ferry.jpg)
 
 El siguiente destino es Hornopirén, lugar donde nos embarcamos en el ferry "Naviera Austral"  a las 12:00 horas con destino a Leptepu.
 
 
 ### Segunda jornada 
 
-![Descarga leptepu](i/fotos/.jpg)
+![Descarga leptepu](i/fotos/leptepu.jpg)
 
 Una vez arriba del ferry se prepara el almuerzo que consiste en un sandwich de atún, acompañado de un jugo y fruta en conserva. Posterior a esto se realiza la primera reunión, donde se da el primer encargo que busca vincular el trazo o pulso caligráfico con el del dibujo.
 
