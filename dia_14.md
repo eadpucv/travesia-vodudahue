@@ -34,11 +34,16 @@ Acto décimo, ¿Cuál es el alba perpetua de tu origen?, Jaime Reyes alrededor d
 
 Nos reunimos tarde en la obra ya terminada. Estuvimos esperando a que llegaran todos al rededor de la fogata que estaba a la salida del habitáculo. Cuando llegaron todos, Jaime nos pidió que rodeáramos la cubícula  y que aguardáramos silencio. La cubícula, iluminada desde su interior con velas se veía muy acogedora...
 
+![Acto en la cubicula de noche](i/fotos/Acto en la cubila de noche.jpg)
+
 Íbamos entrando uno por uno a la cubícula y adentro iba a estar el poeta y dos regalos (dos papeles plisados uno con color y otro en blanco) además el poeta nos iba a decir una parte de un poema al oído y teníamos que memorizarlo. Al salir, debíamos esperar en la fogata a los demás.
 
 Cuando ya todos habíamos pasado por ahí, Jaime nos pidió que todos dijéramos en voz alta lo que nos había dicho al oído: “¿Cuál es el alba perpetua de tu origen?”
 
 Luego, el alumno Lucas Vildósola, relató el mito de la Ciudad de los Césares, con mucha calma y suspenso. Cuando terminó, nos pidieron que imaginásemos que el papel que retiramos en la cubícula (el que estaba en blanco) era algo que anhelábamos dejar atrás. Luego de pensar en eso, cada uno tenía que tirar su anhelo en la fogata. Nos quedamos en silencio rodeando la fogata por varios minutos... había una sensación de no querer irse de este lugar.
+
+
+![Acto fogata](i/fotos/Acto fogata.jpg)
 
 Herbert
 
