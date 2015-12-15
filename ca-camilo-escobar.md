@@ -1,4 +1,5 @@
 ##### Autor: Camilo Escobar
+#Recorrido Pictográfico por 10 obras de Ciudada Abierta
 ##Parte Baja
 ####1 Arpa Eólica
 ![](i/croquis/cen_arpaeolica.jpg)
@@ -6,11 +7,6 @@
 ![](i/croquis/cen_arpaeolicaesq.jpg)
 ![](i/croquis/cen_arpaeolicaesq1.jpg)
 
-
-<p><b>§</b> La obra posee una forma
-muy fuerte y rígida, esto la
-lleva a una traducción
-iconográfica directa.<p> 
 
 <p>Se trata de una serie de tubos-silbatos colocados en postes inclinados de fibrocemento. Estos se disponen a los pies de una de las hospederías que custodian el acceso a los terrenos de la Ciudad Abierta, en una pequeña cuenca formada por las dunas de arena (muy típicas del zona) y que conforma una suerte de pequeña plazoleta.</p>
 
@@ -27,7 +23,7 @@ iconográfica directa.<p>
 ![](i/croquis/cen_pilareshormigonesq.jpg)
 ![](i/croquis/cen_pilareshormigonico1.jpg)
 
-
+<p><b>§</b> Psee una altura monumental<p>
 
 ####4 Hospedería Rosa de los Vientos
 
@@ -77,6 +73,11 @@ iconográfica directa.<p>
 #### 10 Pozo Escultórico
 
 ![](img/ca/croquis/cen_pozo.jpg)
+
+<p><b>§</b> La obra posee una forma
+muy fuerte y rígida, esto la
+lleva a una traducción
+iconográfica directa.<p> 
 
 <p>El pictograma recoge la forma poligonal y quebrada del pozo, y el espacio luminoso dentro de ella. La obra de por sí posee un caracter icónico, entonces se genera una traducción más directa que con las demás obras.</p>
 
