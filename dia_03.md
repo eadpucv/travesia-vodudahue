@@ -5,7 +5,7 @@
 ### Primera jornada
 El amanecer nos permite ver con una nueva perspectiva donde nos encontramos, nos acompaña una lluvia intensa que nos hace imaginar el mal tiempo que nos espera en los días posteriores tras este primer abrir de ojos se prosiguió  a tomar desayuno  por parte de aquellos que no pertenecían al grupo de restauro que se encontraban preparando este momento desde las seis treinta de la mañana, para poder servirlo a las ocho de la mañana hora acordada por el grupo de profesores durante la noche anterior.
 
-![campamento](Travesia_0006_Capture d’écran 2015-12-05 à 14.43.26.png.jpg)
+![campamento](i/fotos/campamento-travesia.jpg)
 
 Es tras esta instancia  que se dan las faenas a realizar durante la mañana todas estas en son de poder acomodar el campamento.
 
