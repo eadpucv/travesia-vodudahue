@@ -46,4 +46,3 @@ Acto segundo, Intervención: Hasta el fondo de lo desconocido
 
 Al término de la cena, se pidió a todos que dejaran sus bitácoras en la carpa porque serían intervenidas las tapas, como tratando de que todas en su singularidad, tuviesen algo en común de esta travesía.
 
- 
