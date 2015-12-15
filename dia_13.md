@@ -43,6 +43,7 @@ Jaime Reyes, Alfred Thiers @Bosque-Pájaras
 
 Nos reunimos bajo las Pájaras, formando un círculo grande con todos los que participaron en la travesía, los sargentos de Vodudahue, Don Oscar y su familia. El poeta leyó un fragmento de Amereida II y luego Alfred dió unas palabras de agradecimiento al lugar y a todos los que hicieron posible, sin mayores complicaciones, esta experiencia, esta travesía.
 
+![Traspaso del cuerpo poetico](i/fotos/Traspaso del cuerpo poetico.jpg)
 ![Último Acto](i/fotos/Ultimo Acto.jpg)
 
 Jaime Reyes: 
