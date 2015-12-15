@@ -1,5 +1,7 @@
 # Domingo 1 de Noviembre
 
+![Cubícula Cardinal](i/fotos/Cubícula Cardinal.JPG)
+
 ##Faenas
  
 ### Primera jornada 
