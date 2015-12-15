@@ -35,6 +35,7 @@ Acto décimo, ¿Cuál es el alba perpetua de tu origen?, Jaime Reyes alrededor d
 Nos reunimos tarde en la obra ya terminada. Estuvimos esperando a que llegaran todos al rededor de la fogata que estaba a la salida del habitáculo. Cuando llegaron todos, Jaime nos pidió que rodeáramos la cubícula  y que aguardáramos silencio. La cubícula, iluminada desde su interior con velas se veía muy acogedora...
 
 ![Acto en la cubicula de noche](i/fotos/Acto en la cubila de noche.jpg)
+![Acto de noche](i/fotos/Acto de noche.jpg)
 
 Íbamos entrando uno por uno a la cubícula y adentro iba a estar el poeta y dos regalos (dos papeles plisados uno con color y otro en blanco) además el poeta nos iba a decir una parte de un poema al oído y teníamos que memorizarlo. Al salir, debíamos esperar en la fogata a los demás.
 
