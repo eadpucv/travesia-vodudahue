@@ -1,6 +1,6 @@
 # Martes 20 de Octubre
 
-![Camino a Vodudahue](i/fotos/.jpg)
+![Camino a Vodudahue](i/fotos/caleta-la-arena.jpg)
 
 ##Faenas
 
