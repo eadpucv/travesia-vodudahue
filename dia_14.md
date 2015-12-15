@@ -8,7 +8,7 @@ Después de un día de celebración y el aviso de que el viaje de regreso a casa
 
 Ciertas personas prosiguieron a realizar las tareas de desmonte del campamento, comenzando por el desarme de la carpa comedor y la carpa ubicada en la obra, luego se ordenó la cocina, donde se dejaron sólo las cosas necesarias para el almuerzo y la cena para los días restantes, repartiendo lo restante dentro del campamento. Entonces cuando el almuerzo fue servido, se dio inicio a la tarde libre, para descansar o recorrer el luegar.
 
-![Recorriendo el lugar](Recorriendo el lugar.jpg)
+![Recorriendo el lugar](i/fotos/Recorriendo el lugar.jpg)
 
 ### Segunda jornada
 
